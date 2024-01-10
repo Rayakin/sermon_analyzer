@@ -1,0 +1,74 @@
+{
+  "name": "get_sermon_features",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "application": {
+        "type": "object",
+        "description": "Extract points of application from the text. These are aspects of the text that the speaker wants the audience to actively apply to their lives.",
+        "properties": {
+          "summary": {
+            "type": "string",
+            "description": "Summarize the application point as succinctly as you can, ideally in a few words."
+          },
+          "sample": {
+            "type": "string",
+            "description": "Provide an example passage for this application point from the text. This should be a direct quote."
+          }
+        }
+      },
+      "pop_culture_reference": {
+        "type": "object",
+        "description": "Generate an object that includes any pop cultural references. This could include books, movies, social figures, or other popular ideas or attributes.",
+        "properties": {
+          "summary": {
+            "type": "string",
+            "description": "Summarize or identify the pop cultural reference by either identifying it (for example if the the text said, 'To infinity and beyond!' say: Buzz Lightyear)."
+          },
+          "sample": {
+            "type": "string",
+            "description": "Provide an example passage for this pop cultural reference from the text. This should be a direct quote."
+          }
+        }
+      },
+      "common_phrases": {
+        "type": "object",
+        "description": "Generate an object of the most common phrases from this sermon. These should be phrases that occur often and represent the personality of the speaker. For example unique turns of phrase or fillers. Generate as many as you think are unique to the text.",
+        "properties": {
+          "sample": {
+            "type": "string",
+            "description": "Each one of these should be a unique common phrase and should be a direct quote from the text."
+          }
+        }
+      },
+      "ot_book_references": {
+        "type": "object",
+        "description": "Create an object of all old testament books of the bible. Assess the text and count how many references to each book, whether direct or indirect, are in the text.",
+        "properties": {
+          "count": {
+            "type": "number",
+            "description": "This should be the actual count of all the references to a given old testament book."
+          }
+        }
+      },
+      "nt_book_references": {
+        "type": "object",
+        "description": "Create an object of all new testament books of the bible. Assess the text and count how many references to each book, whether direct or indirect, are in the text.",
+        "properties": {
+          "count": {
+            "type": "number",
+            "description": "This should be the actual count of all the references to a given new testament book."
+          }
+        }
+      }
+    },
+    "required": [
+      "application",
+      "pop_culture_reference",
+      "common_phrases",
+      "ot_book_references",
+      "nt_book_references"
+    ]
+  },
+  "description": "You will be given a sermon transcript and you will return a JSON object of objects and properties describes."
+}
