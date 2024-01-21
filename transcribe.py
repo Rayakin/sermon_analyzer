@@ -9,6 +9,7 @@ def get_transcript(input_file):
     try: 
         transcript = client.audio.transcriptions.create(
             model="whisper-1",
+            prompt="Hello, thank you for listening to my sermon today.",
             file=audio_file
         )
     except Exception as e:
@@ -45,4 +46,7 @@ def get_all_transcripts_in_directory(directory):
     except Exception as e:
         print(e)
 
-get_all_transcripts_in_directory('mp3s2')
+# get_all_transcripts_in_directory('mp3s2')
+        
+text = get_transcript('mp3s/compressed_1000609187528--The Shame of the Cross (Mark 15:16-32).mp3')
+print(text)

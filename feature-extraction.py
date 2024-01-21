@@ -19,7 +19,7 @@ for sermon in all_sermon_metadata:
     if speaker not in aggregated_texts_by_speaker:
         aggregated_texts_by_speaker[speaker] = ""
 
-    file_path = os.path.join('transcripts2', filename)
+    file_path = os.path.join('transcripts', filename)
     print(f"Trying to open: {file_path}")
 
     try:
@@ -53,37 +53,37 @@ new_testament_books = [
 # Combine into one list for ease of searching
 bible_books = old_testament_books + new_testament_books
 
-biblical_characters = ["Adam", "Eve", "Abel", "Cain", "Seth", "Noah", "Shem", "Ham", "Japheth", "Abraham", "Lot", "Sarah", "Isaac", "Rebekah", "Jacob", "Leah", "Rachel", "Joseph", "Moses", "Aaron", "Miriam", "Joshua", "Caleb", "Samuel", "Saul", "David", "Solomon", "Jonathan", "Absalom", "Elijah", "Elisha", "Isaiah", "Jeremiah", "Ezekiel", "Daniel", "Job", "Ruth", "Naomi", "Esther", "Mordecai", "Ezra", "Nehemiah", "Jesus", "Christ", "Mary", "Joseph", "John the Baptist", "Mary Magdalene", "Lazarus", "Peter", "Andrew", "James", "John", "Philip", "Bartholomew", "Thomas", "Matthew", "James", "Mark", "Luke", "Thaddaeus", "Simon the Zealot", "Judas Iscariot", "Paul", "Barnabas", "Silas", "Timothy", "Titus", "Philemon", "Stephen", "Philip", "Luke", "Priscilla", "Aquila"]
-
+biblical_characters = ["Adam", "Eve", "Abel", "Cain", "Seth", "Noah", "Shem", "Ham", "Japheth", "Abraham", "Lot", "Sarah", "Isaac", "Rebekah", "Jacob", "Leah", "Rachel", "Joseph", "Moses", "Aaron", "Miriam", "Joshua", "Caleb", "Samuel", "Saul", "David", "Solomon", "Jonathan", "Absalom", "Elijah", "Elisha", "Isaiah", "Jeremiah", "Ezekiel", "Daniel", "Job", "Ruth", "Naomi", "Esther", "Mordecai", "Ezra", "Nehemiah", "Jesus", "Christ", "Mary", "Joseph", "John the Baptist", "Mary Magdalene", "Lazarus", "Peter", "Cephas", "Andrew", "James", "John", "Philip", "Bartholomew", "Thomas", "Matthew", "James", "Mark", "Luke", "Thaddaeus", "Simon the Zealot", "Judas Iscariot", "Paul", "Barnabas", "Silas", "Timothy", "Titus", "Philemon", "Stephen", "Philip", "Luke", "Priscilla", "Aquila"]
 
 
 def read_files_from_directory(directory):
     aggregated_text = ""
     for filename in os.listdir(directory):
-        if filename.endswith(".txt"):  # Assuming the sermon files are text files
+        if filename.endswith(".txt"):
             with open(os.path.join(directory, filename), 'r') as file:
                 aggregated_text += file.read() + " "
     return aggregated_text
-
 text = read_files_from_directory("transcripts")
 
 # Function to count mentions of each book
 def count_mentions(text, items):
+    ordinal_map = {'first': '1', 'second': '2', 'third': '3'}
+    person_map = {'sarai': 'Sarah', 'cephas': 'Peter'}
+
+    for ordinal, number in ordinal_map.items():
+        text = re.sub(r'\b' + ordinal + r'\b', number, text, flags=re.IGNORECASE)
+    
+    for person, agg in person_map.items():
+        text = re.sub(r'\b' + person + r'\b', agg, text, flags=re.IGNORECASE)
+
     book_mentions = Counter()
     for item in items:
-        # Using regex to match whole word, avoiding partial matches (e.g., "Job" in "Job's")
         count = len(re.findall(r'\b' + re.escape(item) + r'\b', text, flags=re.IGNORECASE))
         if count > 0:
             book_mentions[item] += count
     return book_mentions
 
-# Counting mentions of each book in the sermon
-# OT_book_mentions_count = count_mentions(text, old_testament_books)
-# print(OT_book_mentions_count)
-# NT_book_mentions_count = count_mentions(text, new_testament_books)
-# print(NT_book_mentions_count)
-# biblical_characters_mentions_count = count_mentions(text, biblical_characters)
-# print(biblical_characters_mentions_count)
+nt_mentions = {}
 
 for speaker, texts in aggregated_texts_by_speaker.items():
     mentions = count_mentions(texts, old_testament_books)
@@ -91,7 +91,7 @@ for speaker, texts in aggregated_texts_by_speaker.items():
     print(mentions)
 
 for speaker, texts in aggregated_texts_by_speaker.items():
-    mentions = count_mentions(texts, new_testament_books)
+    nt_mentions = count_mentions(texts, new_testament_books)
     print(f"Speaker: {speaker}")
     print(mentions)
 
@@ -100,22 +100,20 @@ for speaker, texts in aggregated_texts_by_speaker.items():
     print(f"Speaker: {speaker}")
     print(mentions)
 
+# Function to split text into sentences and count topic frequency
+def count_topic_frequency(text, topic):
+    # Split text into sentences
+    sentences = sent_tokenize(text)
+    print(sentences)
+    # Count how many sentences contain the topic
+    topic_count = sum(topic.lower() in sentence.lower() for sentence in sentences)
 
+    return topic_count, len(sentences)
 
-# # Function to split text into sentences and count topic frequency
-# def count_topic_frequency(text, topic):
-#     # Split text into sentences
-#     sentences = sent_tokenize(text)
-#     print(sentences)
-#     # Count how many sentences contain the topic
-#     topic_count = sum(topic.lower() in sentence.lower() for sentence in sentences)
+# Example usage
+topic = "Christ"
 
-#     return topic_count, len(sentences)
+topic_count, total_sentences = count_topic_frequency(text, topic)
 
-# # Example usage
-# topic = "Christ"
-
-# topic_count, total_sentences = count_topic_frequency(text, topic)
-
-# print(f"Number of sentences talking about '{topic}': {topic_count}")
-# print(f"Total number of sentences: {total_sentences}")
+print(f"Number of sentences talking about '{topic}': {topic_count}")
+print(f"Total number of sentences: {total_sentences}")
