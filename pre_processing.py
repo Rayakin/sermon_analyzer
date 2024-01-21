@@ -67,26 +67,22 @@ def flatten(list_of_lists):
 
 def pre_process_transcript(sermon):
     sentences, words = tokenize_text(sermon)
-    lowercased = lowercase_tokens(words)
-    cleaned_sentences = remove_punctuation(lowercased)
-    filtered_words = remove_stop_words(cleaned_sentences)
-    lemmatized_words = lemmatize_tokens(filtered_words)
-    flatten_lemmatized_words = flatten(lemmatized_words)
-    bigrams = create_ngrams(flatten_lemmatized_words, 2)
-    # print(bigrams)
-    trigrams = create_ngrams(flatten_lemmatized_words, 3)
-    # print(trigrams)
-    quadgrams = create_ngrams(flatten_lemmatized_words, 4)
+    text = lowercase_tokens(words)
+    text = remove_punctuation(text)
+    text = remove_stop_words(text)
+    text = lemmatize_tokens(text)
+    text = flatten(text)
+    bigrams = create_ngrams(text, 2)
+    trigrams = create_ngrams(text, 3)
+    quadgrams = create_ngrams(text, 4)
     print(quadgrams)
-    pentagrams = create_ngrams(flatten_lemmatized_words, 5)
-    # print(pentagrams)
-    return quadgrams
-    
+    quingrams = create_ngrams(text, 5)
+    return bigrams, trigrams, quadgrams, quingrams
 
-quadgrams = pre_process_transcript(sermon_text)
-quadgram_counts = Counter(quadgrams)
-most_common_quadgrams = quadgram_counts.most_common(20)  
+bigrams, trigrams, quadgrams, quingrams = pre_process_transcript(sermon_text)
+ngram_counts = Counter(quingrams)
+most_common_quadgrams = ngram_counts.most_common(20)  
 
 print("Most Common Quadgrams:")
-for quadgram, count in most_common_quadgrams:
-    print(f"{quadgram}: {count}")
+for ngram, count in most_common_quadgrams:
+    print(f"{ngram}: {count}")

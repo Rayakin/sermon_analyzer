@@ -26,6 +26,7 @@ def euclidean_distance(embedding1, embedding2):
     embedding2 = np.array(embedding2)
 
     # Calculate the Euclidean distance
+    # Note, unlike Cosine Similarity, the lower the Euclidean distance the more similar the two values are.
     distance = np.sqrt(np.sum((embedding1 - embedding2) ** 2))
     return distance
 
