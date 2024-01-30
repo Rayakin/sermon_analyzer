@@ -31,27 +31,19 @@ for sermon in all_sermon_metadata:
 
 # List of books in the Old and New Testaments
 old_testament_books = [
-    "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", 
-    "Joshua", "Judges", "Ruth", "first Samuel","1 Samuel", "second Samuel","2 Samuel", 
-    "first Kings","1 Kings", "second Kings","2 Kings", "first Chronicles","1 Chronicles", "second Chronicles","2 Chronicles", 
-    "Ezra", "Nehemiah", "Esther", "Job", "Psalm", "Proverbs", 
-    "Ecclesiastes", "Song of Solomon", "Isaiah", "Jeremiah", 
-    "Lamentations", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", 
-    "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", 
-    "Zephaniah", "Haggai", "Zechariah", "Malachi"
+    "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "Ruth", "first Samuel","1 Samuel", "second Samuel","2 Samuel", "first Kings","1 Kings", "second Kings","2 Kings", "first Chronicles","1 Chronicles", "second Chronicles","2 Chronicles", "Ezra", "Nehemiah", "Esther", "Job", "Psalm", "Proverbs", "Ecclesiastes", "Song of Solomon", "Isaiah", "Jeremiah", "Lamentations", "Ezekiel", "Daniel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi"
 ]
 
 new_testament_books = [
-    "Matthew", "Mark", "Luke", "John", "Acts", 
-    "Romans", "First Corinthians", "1 Corinthians", "Second Corinthians", "2 Corinthians", "Galatians", 
-    "Ephesians", "Philippians", "Colossians", "first Thessalonians", "1 Thessalonians", 
-    "second Thessalonians", "2 Thessalonians", "first Timothy","1 Timothy", "second Timothy","2 Timothy", "Titus", 
-    "Philemon", "Hebrews", "James", "first Peter", "1 Peter", "second Peter", "2 Peter",
-    "first John","1 John", "second John","2 John", "third John","3 John", "Jude", "Revelation"
+    "Matthew", "Mark", "Luke", "John", "Acts", "Romans", "First Corinthians", "1 Corinthians", "Second Corinthians", "2 Corinthians", "Galatians", "Ephesians", "Philippians", "Colossians", "first Thessalonians", "1 Thessalonians", "second Thessalonians", "2 Thessalonians", "first Timothy","1 Timothy", "second Timothy","2 Timothy", "Titus", "Philemon", "Hebrews", "James", "first Peter", "1 Peter", "second Peter", "2 Peter", "first John","1 John", "second John","2 John", "third John","3 John", "Jude", "Revelation"
+]
+
+biblical_characters = [
+    "Aaron", "Abednego", "Abel", "Abigail", "Abram","Abraham", "Absalom", "Achitophel", "Ahithophel", "Adam", "Ahab", "Ahasuerus", "Ammon", "Amos", "Ananias", "Andrew", "Asher", "Balaam", "Balthazar", "Barabbas", "Bartholomew", "Baruch", "Bathsheba", "Beelzebub", "Belial", "Belshazzar", "Benjamin", "Boanerges", "Boaz", "Caiaphas", "Cain", "Cephas", "Caspar", "Cush", "Kush", "Dan", "Daniel", "David", "Deborah", "Delilah", "Dinah", "Dives", "Dorcas", "Elias", "Elijah", "Elisha", "Enoch", "Enos", "Ephraim", "Esau", "Esther", "Eve", "Ezekiel", "Ezra", "Gabriel", "Gad", "Gideon", "Gilead", "Gog", "Magog", "Goliath", "Good Samaritan", "Habakkuk", "Hagar", "Haggai", "Ham", "Hannah", "Herod", "Hezekiah", "Hiram", "Holofernes", "Hosea", "Isaac", "Isaiah", "Ishmael", "Issachar", "Jacob", "Jael", "James", "Japheth", "Jehoshaphat", "Jehu", "Jephthah", "Jephte", "Jeremiah", "Jeroboam", "Jesse", "Jesus Christ", "Jethro", "Jezebel", "Joab", "Joel", "John the Baptist", "Jonah", "Jonas", "Jonathan", "Joseph", "Joshua", "Josiah", "Jubal", "Judah", "Judas", "Jude", "Judith", "Laban", "Lazarus", "Leah", "Levi", "Lot", "Luke", "Magus", "Malachi", "Manasseh", "Mark", "Martha", "Mary", "Mary Magdalene", "Matthew", "Matthias", "Melchior", "Melchizedek", "Melchisedech", "Meshach", "Methuselah", "Micah", "Midian", "Miriam", "Mordecai", "Moses", "Nabonidus", "Naboth", "Nahum", "Naomi", "Naphtali", "Nathan", "Nathanael", "Nebuchadnezzar", "Nebuchadrezzar", "Nehemiah", "Nicodemus", "Nimrod", "Noah", "Obadiah", "Paul", "Peter", "Philip", "Pilate", "Potiphar", "Queen of Sheba", "Rachel", "Rebecca", "Reuben", "Ruth", "Salome", "Samson", "Samuel", "Sapphira", "Sarai", "Sarah", "Saul", "Seth", "Shadrach", "Shem", "Simeon", "Magus", "Simon", "Solomon", "Susanna", "Thaddeus", "Thadeus", "Thomas", "Tobit", "Tubal-cain", "Uriah", "Zacharias", "Zachariah", "Zachary", "Zebedee", "Zebulun", "Zechariah", "Zedekiah", "Zephaniah", "Zilpah"
 ]
 
 # Combine into one list for ease of searching
-bible_books = old_testament_books + new_testament_books
+bible_books = old_testament_books + new_testament_books + biblical_characters
 
 biblical_characters = ["Adam", "Eve", "Abel", "Cain", "Seth", "Noah", "Shem", "Ham", "Japheth", "Abraham", "Lot", "Sarah", "Isaac", "Rebekah", "Jacob", "Leah", "Rachel", "Joseph", "Moses", "Aaron", "Miriam", "Joshua", "Caleb", "Samuel", "Saul", "David", "Solomon", "Jonathan", "Absalom", "Elijah", "Elisha", "Isaiah", "Jeremiah", "Ezekiel", "Daniel", "Job", "Ruth", "Naomi", "Esther", "Mordecai", "Ezra", "Nehemiah", "Jesus", "Christ", "Mary", "Joseph", "John the Baptist", "Mary Magdalene", "Lazarus", "Peter", "Cephas", "Andrew", "James", "John", "Philip", "Bartholomew", "Thomas", "Matthew", "James", "Mark", "Luke", "Thaddaeus", "Simon the Zealot", "Judas Iscariot", "Paul", "Barnabas", "Silas", "Timothy", "Titus", "Philemon", "Stephen", "Philip", "Luke", "Priscilla", "Aquila"]
 

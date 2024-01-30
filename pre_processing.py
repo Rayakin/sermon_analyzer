@@ -1,18 +1,120 @@
 import nltk
+import pickle
 import os
 import string
 from collections import Counter
 import itertools
 from nltk.corpus import stopwords
 from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk import pos_tag, sent_tokenize, wordpunct_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
 from nltk.util import ngrams
+from nltk.corpus import PlaintextCorpusReader
+from corpus_monitor import SermonCorpusReader
+
+# Define the directory where your transcripts are stored
+corpus_root = './transcripts'  # Update this to the path of your Transcripts directory
+
+class Preprocessor(object):
+    """
+    The preprocessor wraps an `HTMLCorpusReader` and performs tokenization
+    and part-of-speech tagging.
+    """
+    def __init__(self, corpus, target=None, **kwargs):
+        self.corpus = corpus
+        self.target = target
+
+    def fileids(self, fileids=None, categories=None):
+        fileids = self.corpus.resolve(fileids, categories)
+        if fileids:
+            return fileids
+        return self.corpus.fileids()
+
+    def abspath(self, fileid):
+        # Find the directory, relative to the corpus root.
+        parent = os.path.relpath(
+            os.path.dirname(self.corpus.abspath(fileid)), self.corpus.root
+        )
+
+        # Compute the name parts to reconstruct
+        basename  = os.path.basename(fileid)
+        name, ext = os.path.splitext(basename)
+
+        # Create the pickle file extension
+        basename  = name + '.pickle'
+
+        # Return the path to the file relative to the target.
+        return os.path.normpath(os.path.join(self.target, parent, basename))
+    
+    def tokenize(self, fileid):
+        for doc in self.corpus(fileids=fileid):
+            sentences = sent_tokenize(doc)
+            yield [
+                pos_tag(wordpunct_tokenize(sent))
+                for sent in sentences
+            ]
+
+    def process(self, fileid):
+        """
+        For a single file, checks the location on disk to ensure no errors,
+        uses +tokenize()+ to perform the preprocessing, and writes transformed
+        document as a pickle to target location.
+        """
+        # Compute the outpath to write the file to.
+        target = self.abspath(fileid)
+        parent = os.path.dirname(target)
+
+        # Make sure the directory exists
+        if not os.path.exists(parent):
+            os.makedirs(parent)
+
+        # Make sure that the parent is a directory and not a file
+        if not os.path.isdir(parent):
+            raise ValueError(
+                "Please supply a directory to write preprocessed data to."
+            )
+
+        # Create a data structure for the pickle
+        document = list(self.tokenize(fileid))
+
+        # Open and serialize the pickle to disk
+        with open(target, 'wb') as f:
+            pickle.dump(document, f, pickle.HIGHEST_PROTOCOL)
+
+        # Clean up the document
+        del document
+
+        # Return the target fileid
+        return target
+    
+    def transform(self, fileids=None, categories=None):
+        # Make the target directory if it doesn't already exist
+        if not os.path.exists(self.target):
+            os.makedirs(self.target)
+
+        # Resolve the fileids to start processing
+        for fileid in self.fileids(fileids, categories):
+            yield self.process(fileid)
+
 
 sermon_text = ""
 
-with open(os.path.join("transcripts", "1000597345214.txt"), 'r') as file:
-    sermon_text = file.read()
+directory = "transcripts"
+
+def read_files_from_directory(directory):
+    aggregated_text = ""
+    for filename in os.listdir(directory):
+        if filename.endswith(".txt"):
+            with open(os.path.join(directory, filename), 'r') as file:
+                aggregated_text += file.read() + " "
+    return aggregated_text
+
+# text = read_files_from_directory("transcripts")
+
+
+# with open(os.path.join("transcripts", "1000597345214.txt"), 'r') as file:
+#     sermon_text = file.read()
 
 # Libraries that need to be downloaded
 # nltk.download('punkt')
@@ -79,10 +181,10 @@ def pre_process_transcript(sermon):
     quingrams = create_ngrams(text, 5)
     return bigrams, trigrams, quadgrams, quingrams
 
-bigrams, trigrams, quadgrams, quingrams = pre_process_transcript(sermon_text)
-ngram_counts = Counter(quingrams)
-most_common_quadgrams = ngram_counts.most_common(20)  
+# bigrams, trigrams, quadgrams, quingrams = pre_process_transcript(text)
+# ngram_counts = Counter(quingrams)
+# most_common_quadgrams = ngram_counts.most_common(20)  
 
-print("Most Common Quadgrams:")
-for ngram, count in most_common_quadgrams:
-    print(f"{ngram}: {count}")
+# print("Most Common Quadgrams:")
+# for ngram, count in most_common_quadgrams:
+#     print(f"{ngram}: {count}")

@@ -1,0 +1,5982 @@
+[
+    {
+        "s_id": 1000632196794,
+        "t_id": "sanctification.txt",
+        "similarity": 0.022548324524088694
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "doxology.txt",
+        "similarity": 0.005687009645380065
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "sacraments.txt",
+        "similarity": 0.025540843886526464
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.0036663929913611734
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "christology.txt",
+        "similarity": 0.018483364261673855
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "trinity.txt",
+        "similarity": 0.0095156617702096
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "discipleship.txt",
+        "similarity": 0.03063489963144468
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.027321590183690805
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "gospel.txt",
+        "similarity": 0.023975425199547977
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "eschatology.txt",
+        "similarity": 0.0030286568927140427
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "scripture.txt",
+        "similarity": 0.0013488046759374496
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.008905718057534468
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "missiology.txt",
+        "similarity": -0.008021008187953116
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "church_governance.txt",
+        "similarity": -0.0021169669514757667
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "justification.txt",
+        "similarity": 0.01677209198658665
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "glorification.txt",
+        "similarity": 0.02648385403197774
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "apologetics.txt",
+        "similarity": 0.04238036267938401
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.0013824326277315563
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "evangelism.txt",
+        "similarity": 0.020418880395502617
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "anthropology.txt",
+        "similarity": 0.0018279321563681485
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.001867990286455761
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "church_history.txt",
+        "similarity": 0.01987293018537852
+    },
+    {
+        "s_id": 1000632196794,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.03325515403995344
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "sanctification.txt",
+        "similarity": 0.011080839490761855
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "doxology.txt",
+        "similarity": -0.016131195031251083
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "sacraments.txt",
+        "similarity": 0.01624812070328783
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.0009767994406813703
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "christology.txt",
+        "similarity": -0.0029194381980424365
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "trinity.txt",
+        "similarity": -0.007948724302090001
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "discipleship.txt",
+        "similarity": 0.005790658347454367
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.007897899482012603
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "gospel.txt",
+        "similarity": 0.014216269901737102
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "eschatology.txt",
+        "similarity": 0.0037982588091056936
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "scripture.txt",
+        "similarity": -0.004969979352644117
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.005755020270793986
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "missiology.txt",
+        "similarity": -0.010309869433515813
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "church_governance.txt",
+        "similarity": -0.006191848209081691
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "justification.txt",
+        "similarity": 0.008932097091670097
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "glorification.txt",
+        "similarity": -0.0016340554406739745
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "apologetics.txt",
+        "similarity": 0.025034973377942617
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.0110969143419673
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "evangelism.txt",
+        "similarity": 0.022078385081339393
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "anthropology.txt",
+        "similarity": -0.0025918465096529206
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.004959048573348992
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "church_history.txt",
+        "similarity": 0.0015908157847054887
+    },
+    {
+        "s_id": 1000629842062,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.012673374296912263
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "sanctification.txt",
+        "similarity": -0.023865282312408247
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "doxology.txt",
+        "similarity": -0.03227513768559148
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "sacraments.txt",
+        "similarity": 0.003248568697951885
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.03379584457040791
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "christology.txt",
+        "similarity": -0.021904259541800905
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "trinity.txt",
+        "similarity": -0.017023458004433303
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "discipleship.txt",
+        "similarity": -0.021235695739674935
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.01627872647632946
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "gospel.txt",
+        "similarity": -0.013448446912141847
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "eschatology.txt",
+        "similarity": -0.03908950705596517
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "scripture.txt",
+        "similarity": -0.02708371204721355
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.032273011586558494
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "missiology.txt",
+        "similarity": -0.024096183980284104
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "church_governance.txt",
+        "similarity": -0.04219446970671097
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "justification.txt",
+        "similarity": -0.017929350254020822
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "glorification.txt",
+        "similarity": -0.03461683969389709
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "apologetics.txt",
+        "similarity": -0.014667821336545499
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.02681114137437645
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "evangelism.txt",
+        "similarity": -0.012584401080771015
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "anthropology.txt",
+        "similarity": -0.032818071842585686
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.03578351485748836
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "church_history.txt",
+        "similarity": -0.00562200517422007
+    },
+    {
+        "s_id": 1000631411158,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.022335520483645434
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "sanctification.txt",
+        "similarity": -0.04917622223020531
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "doxology.txt",
+        "similarity": -0.05495988166088218
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "sacraments.txt",
+        "similarity": -0.031478781905105925
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.03465399205669693
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "christology.txt",
+        "similarity": -0.048269566943177494
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "trinity.txt",
+        "similarity": -0.04151103540043654
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "discipleship.txt",
+        "similarity": -0.04371978339280397
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.019010419583972392
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "gospel.txt",
+        "similarity": -0.03348505411358944
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "eschatology.txt",
+        "similarity": -0.04717093678125252
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "scripture.txt",
+        "similarity": -0.06514847621196862
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.04369121845211372
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "missiology.txt",
+        "similarity": -0.034926397077140355
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "church_governance.txt",
+        "similarity": -0.034164204770268915
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "justification.txt",
+        "similarity": -0.04119845452086892
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "glorification.txt",
+        "similarity": -0.04723886991889088
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "apologetics.txt",
+        "similarity": -0.03300831657586572
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.050691896933094074
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "evangelism.txt",
+        "similarity": -0.02049205875459594
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "anthropology.txt",
+        "similarity": -0.04746388995608183
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.040714955539917344
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "church_history.txt",
+        "similarity": -0.021579667338421323
+    },
+    {
+        "s_id": 1000627381790,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.048156475842151325
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "sanctification.txt",
+        "similarity": -0.04040691507847571
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "doxology.txt",
+        "similarity": -0.037621529675678396
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "sacraments.txt",
+        "similarity": 0.0018224164753180856
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.04756510643230953
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "christology.txt",
+        "similarity": -0.024483515628599902
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "trinity.txt",
+        "similarity": -0.018440798795259672
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "discipleship.txt",
+        "similarity": -0.03413153759322128
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.019374764501974992
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "gospel.txt",
+        "similarity": -0.01738541722591513
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "eschatology.txt",
+        "similarity": -0.03314176170289764
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "scripture.txt",
+        "similarity": -0.02668742390249701
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.033483717041932835
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "missiology.txt",
+        "similarity": -0.02543595386898507
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "church_governance.txt",
+        "similarity": -0.043154519208424405
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "justification.txt",
+        "similarity": -0.024575493366509864
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "glorification.txt",
+        "similarity": -0.04514743484161562
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "apologetics.txt",
+        "similarity": -0.01767170250210523
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.03870667916992912
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "evangelism.txt",
+        "similarity": -0.01629856346992697
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "anthropology.txt",
+        "similarity": -0.03411407907983544
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.047190744289927145
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "church_history.txt",
+        "similarity": -0.015553090863751918
+    },
+    {
+        "s_id": 1000625870070,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.036610169882252144
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "sanctification.txt",
+        "similarity": -0.006829236938550235
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "doxology.txt",
+        "similarity": -0.022794154892838023
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "sacraments.txt",
+        "similarity": 0.007178734569740861
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.0014092726520559783
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "christology.txt",
+        "similarity": -0.010964756449079061
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "trinity.txt",
+        "similarity": -0.01152411130794443
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "discipleship.txt",
+        "similarity": 0.001784401323069791
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.010754531394199355
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "gospel.txt",
+        "similarity": 0.0036431050709705495
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "eschatology.txt",
+        "similarity": -0.017825760363557666
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "scripture.txt",
+        "similarity": -0.0055009161377762295
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.0009970518521035601
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "missiology.txt",
+        "similarity": -0.0032658925633010545
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "church_governance.txt",
+        "similarity": -0.015955870247468532
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "justification.txt",
+        "similarity": 0.012447751589404353
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "glorification.txt",
+        "similarity": -0.013238385622495701
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "apologetics.txt",
+        "similarity": 0.0050467448434668265
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.011084873398507077
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "evangelism.txt",
+        "similarity": 0.006749367920169148
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "anthropology.txt",
+        "similarity": -0.021321879668745367
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.01161818033611976
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "church_history.txt",
+        "similarity": 0.013384406876670337
+    },
+    {
+        "s_id": 1000625057515,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.0008627080220460423
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "sanctification.txt",
+        "similarity": 0.002035299976881286
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "doxology.txt",
+        "similarity": -0.012953535479511008
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "sacraments.txt",
+        "similarity": 0.021359109892006893
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.00544223580436181
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "christology.txt",
+        "similarity": -0.0038108676930704976
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "trinity.txt",
+        "similarity": -0.0007326541906469359
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "discipleship.txt",
+        "similarity": 0.008199321482360149
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.00895081761075139
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "gospel.txt",
+        "similarity": 0.015602671015512489
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "eschatology.txt",
+        "similarity": -0.009131199968301446
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "scripture.txt",
+        "similarity": -0.008448168777051915
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.0016840684916946264
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "missiology.txt",
+        "similarity": -0.007735543965965502
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "church_governance.txt",
+        "similarity": -0.015761834235274278
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "justification.txt",
+        "similarity": 0.012573320482056952
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "glorification.txt",
+        "similarity": -0.005095012132335958
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "apologetics.txt",
+        "similarity": 0.01445970680000368
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.007138784390182903
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "evangelism.txt",
+        "similarity": 0.023686733915318357
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "anthropology.txt",
+        "similarity": -0.005817211936223199
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.012106111257812514
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "church_history.txt",
+        "similarity": 3.58052715831985e-05
+    },
+    {
+        "s_id": 1000635368423,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.0008478976627077604
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "sanctification.txt",
+        "similarity": 0.019522549967330764
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "doxology.txt",
+        "similarity": 0.0015802714636216908
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "sacraments.txt",
+        "similarity": 0.023035730902261367
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.007832891353574834
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "christology.txt",
+        "similarity": 0.007596036342585599
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "trinity.txt",
+        "similarity": 0.01777456942902661
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "discipleship.txt",
+        "similarity": 0.0007642311195505819
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.02724994342806479
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "gospel.txt",
+        "similarity": 0.028407222007893418
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "eschatology.txt",
+        "similarity": 0.0194509157480821
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "scripture.txt",
+        "similarity": 0.010630996210595364
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.023331972662425773
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "missiology.txt",
+        "similarity": 0.0038280658265468738
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "church_governance.txt",
+        "similarity": 0.022376996522899185
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "justification.txt",
+        "similarity": 0.012779189548730644
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "glorification.txt",
+        "similarity": 0.004743256055942986
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "apologetics.txt",
+        "similarity": 0.024326065106408584
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.014108656596697692
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "evangelism.txt",
+        "similarity": 0.02168433415561429
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "anthropology.txt",
+        "similarity": 0.02209491131504558
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.003291621555880008
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "church_history.txt",
+        "similarity": -0.010169171380734199
+    },
+    {
+        "s_id": 1000624336579,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.0002824267361137469
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "sanctification.txt",
+        "similarity": -0.039769491673703826
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "doxology.txt",
+        "similarity": -0.04366347273170967
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "sacraments.txt",
+        "similarity": -0.004434288908128848
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.043290907013817555
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "christology.txt",
+        "similarity": -0.024971947837918177
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "trinity.txt",
+        "similarity": -0.026777703656893793
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "discipleship.txt",
+        "similarity": -0.030753638856682166
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.01921410304950754
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "gospel.txt",
+        "similarity": -0.030847127182174715
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "eschatology.txt",
+        "similarity": -0.04303895553068029
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "scripture.txt",
+        "similarity": -0.03195523459195315
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.043598627711359986
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "missiology.txt",
+        "similarity": -0.036347936412807806
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "church_governance.txt",
+        "similarity": -0.04273485064784842
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "justification.txt",
+        "similarity": -0.027785811256614723
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "glorification.txt",
+        "similarity": -0.046413458067579315
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "apologetics.txt",
+        "similarity": -0.022947925024962294
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.029655366405218726
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "evangelism.txt",
+        "similarity": -0.020984448776496918
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "anthropology.txt",
+        "similarity": -0.04048408943152766
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.038912952158632025
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "church_history.txt",
+        "similarity": -0.015278206148075537
+    },
+    {
+        "s_id": 1000622085535,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.030512906941922317
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "sanctification.txt",
+        "similarity": -0.0016518256338027351
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "doxology.txt",
+        "similarity": -0.02145337791927168
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "sacraments.txt",
+        "similarity": 0.0038671962897396574
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.01156452576337885
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "christology.txt",
+        "similarity": -0.017738167620775045
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "trinity.txt",
+        "similarity": -0.0066876262963482
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "discipleship.txt",
+        "similarity": -0.0022019656837472396
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.017306122312008742
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "gospel.txt",
+        "similarity": 0.009493023798485153
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "eschatology.txt",
+        "similarity": 0.002769484259600552
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "scripture.txt",
+        "similarity": -0.011555613689643987
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.015065454157780331
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "missiology.txt",
+        "similarity": 0.0018809213782957574
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "church_governance.txt",
+        "similarity": -0.0022889184165375016
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "justification.txt",
+        "similarity": 0.0076223173148657975
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "glorification.txt",
+        "similarity": 0.007063200166592115
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "apologetics.txt",
+        "similarity": 0.0013338951446380618
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.012767352611932764
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "evangelism.txt",
+        "similarity": 0.018641554667190505
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "anthropology.txt",
+        "similarity": -0.0026017245980921103
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.0011355288978843088
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "church_history.txt",
+        "similarity": -0.010411554513481747
+    },
+    {
+        "s_id": 1000622869644,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.00914147951478786
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "sanctification.txt",
+        "similarity": -0.04790336357698679
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "doxology.txt",
+        "similarity": -0.06188417583238686
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "sacraments.txt",
+        "similarity": -0.012503218264680843
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.0599399617807212
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "christology.txt",
+        "similarity": -0.039559221545096515
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "trinity.txt",
+        "similarity": -0.04095962768708173
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "discipleship.txt",
+        "similarity": -0.04823675888954952
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.034349672662944
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "gospel.txt",
+        "similarity": -0.023022589737825477
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "eschatology.txt",
+        "similarity": -0.0489998401421562
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "scripture.txt",
+        "similarity": -0.050109821520239864
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.05307020238114989
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "missiology.txt",
+        "similarity": -0.04393144135000443
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "church_governance.txt",
+        "similarity": -0.05453475954173642
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "justification.txt",
+        "similarity": -0.04014442926567362
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "glorification.txt",
+        "similarity": -0.052906801332362044
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "apologetics.txt",
+        "similarity": -0.03404443018750917
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.0407730695448288
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "evangelism.txt",
+        "similarity": -0.031080425163480516
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "anthropology.txt",
+        "similarity": -0.04880908193186362
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.051448530283775884
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "church_history.txt",
+        "similarity": -0.03274495084078349
+    },
+    {
+        "s_id": 1000628175441,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.052914016761009375
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "sanctification.txt",
+        "similarity": 0.03986496327520498
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "doxology.txt",
+        "similarity": 0.006094620839995605
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "sacraments.txt",
+        "similarity": 0.033169991378832274
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.020080133001919645
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "christology.txt",
+        "similarity": 0.015038397142228436
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "trinity.txt",
+        "similarity": 0.017315439989127195
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "discipleship.txt",
+        "similarity": 0.031641152273733084
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.033736175211832434
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "gospel.txt",
+        "similarity": 0.03564261848101199
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "eschatology.txt",
+        "similarity": 0.011504530692654086
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "scripture.txt",
+        "similarity": 0.01731431844050686
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.016631754784173235
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "missiology.txt",
+        "similarity": 0.014274047345500945
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "church_governance.txt",
+        "similarity": 0.0018134325357052165
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "justification.txt",
+        "similarity": 0.02830966861656894
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "glorification.txt",
+        "similarity": 0.03210121674268214
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "apologetics.txt",
+        "similarity": 0.027116936379585347
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.005740854423548082
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "evangelism.txt",
+        "similarity": 0.03991385220679783
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "anthropology.txt",
+        "similarity": 0.01406704257919017
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.003211352371569643
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "church_history.txt",
+        "similarity": 0.024830090446900946
+    },
+    {
+        "s_id": 1000629013770,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.030711715725908566
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "sanctification.txt",
+        "similarity": -0.02570705458110101
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "doxology.txt",
+        "similarity": -0.04747314274350646
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "sacraments.txt",
+        "similarity": -0.007121833025101314
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.038856362804106
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "christology.txt",
+        "similarity": -0.030263473134732044
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "trinity.txt",
+        "similarity": -0.022096299387468883
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "discipleship.txt",
+        "similarity": -0.03318834373349046
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.01598133168469455
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "gospel.txt",
+        "similarity": -0.029088525214293188
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "eschatology.txt",
+        "similarity": -0.03761972256924952
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "scripture.txt",
+        "similarity": -0.0354746299178511
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.04793821457671188
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "missiology.txt",
+        "similarity": -0.036435919833194025
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "church_governance.txt",
+        "similarity": -0.03577950645388546
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "justification.txt",
+        "similarity": -0.02305753949501996
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "glorification.txt",
+        "similarity": -0.050194512054737836
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "apologetics.txt",
+        "similarity": -0.006658032476987737
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.03871432675073199
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "evangelism.txt",
+        "similarity": -0.017527745911375372
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "anthropology.txt",
+        "similarity": -0.033163844493368747
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.03173785345713388
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "church_history.txt",
+        "similarity": -0.02389234094339716
+    },
+    {
+        "s_id": 1000639612937,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.03617637815241577
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "sanctification.txt",
+        "similarity": -0.01578725467883431
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "doxology.txt",
+        "similarity": -0.03454724400322991
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "sacraments.txt",
+        "similarity": -0.013925658705301987
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.03061937706635474
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "christology.txt",
+        "similarity": -0.022759504785927913
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "trinity.txt",
+        "similarity": -0.03347868448076745
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "discipleship.txt",
+        "similarity": -0.004566429334902495
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.013343143846211266
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "gospel.txt",
+        "similarity": -0.01796637614279473
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "eschatology.txt",
+        "similarity": -0.021401968204951275
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "scripture.txt",
+        "similarity": -0.020997337451711142
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.032602508096051364
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "missiology.txt",
+        "similarity": -0.023751707116393857
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "church_governance.txt",
+        "similarity": -0.03448089640299392
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "justification.txt",
+        "similarity": -0.013937890547636965
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "glorification.txt",
+        "similarity": -0.026266667485688327
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "apologetics.txt",
+        "similarity": -0.00893406139097562
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.02324657338582208
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "evangelism.txt",
+        "similarity": 0.0034754305213901306
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "anthropology.txt",
+        "similarity": -0.013716194460247796
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.025225018264070156
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "church_history.txt",
+        "similarity": -0.01171852604233791
+    },
+    {
+        "s_id": 1000633772344,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.010902401309317277
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "sanctification.txt",
+        "similarity": 0.03191640483272206
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "doxology.txt",
+        "similarity": 0.005539337698640894
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "sacraments.txt",
+        "similarity": 0.03403641942563625
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.013652722069905861
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "christology.txt",
+        "similarity": 0.011051002654790129
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "trinity.txt",
+        "similarity": 0.009636417090357913
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "discipleship.txt",
+        "similarity": 0.04730751843912673
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.033040838238792974
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "gospel.txt",
+        "similarity": 0.031067270955419942
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "eschatology.txt",
+        "similarity": -0.003402509512384043
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "scripture.txt",
+        "similarity": 0.008827601486188554
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.01187937789304861
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "missiology.txt",
+        "similarity": 0.017501098861487135
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "church_governance.txt",
+        "similarity": 0.011377667748554289
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "justification.txt",
+        "similarity": 0.021284922990303396
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "glorification.txt",
+        "similarity": 0.013948305069710967
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "apologetics.txt",
+        "similarity": 0.029674927398511075
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.01002633900592096
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "evangelism.txt",
+        "similarity": 0.04137143933802861
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "anthropology.txt",
+        "similarity": -0.01200321121917276
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.0026439704899673417
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "church_history.txt",
+        "similarity": 0.02834780789020875
+    },
+    {
+        "s_id": 1000626738348,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.03767607814100367
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "sanctification.txt",
+        "similarity": -0.009441446323684644
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "doxology.txt",
+        "similarity": -0.022334505132995862
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "sacraments.txt",
+        "similarity": -0.01130041843834648
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.03367801266298065
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "christology.txt",
+        "similarity": -0.0238900997499389
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "trinity.txt",
+        "similarity": -0.026133878893460846
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "discipleship.txt",
+        "similarity": -0.019004474693473983
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.02491282468181547
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "gospel.txt",
+        "similarity": -0.0056278906600688815
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "eschatology.txt",
+        "similarity": -0.01601446866715617
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "scripture.txt",
+        "similarity": -0.01017843946782551
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.011111559862731005
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "missiology.txt",
+        "similarity": -0.019415802935381667
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "church_governance.txt",
+        "similarity": -0.028900704227039373
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "justification.txt",
+        "similarity": -0.014087926619194476
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "glorification.txt",
+        "similarity": -0.005005536208471498
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "apologetics.txt",
+        "similarity": -0.008007565399323046
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.018920595220001106
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "evangelism.txt",
+        "similarity": -0.013795936790609087
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "anthropology.txt",
+        "similarity": -0.032574789364968125
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.025315047464896573
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "church_history.txt",
+        "similarity": -0.046021660866950295
+    },
+    {
+        "s_id": 1000623624221,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.020028937319900297
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "sanctification.txt",
+        "similarity": -0.044289817242286394
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "doxology.txt",
+        "similarity": -0.05115750388887691
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "sacraments.txt",
+        "similarity": 0.00429502412820338
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.04818142089979993
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "christology.txt",
+        "similarity": -0.030889554768612746
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "trinity.txt",
+        "similarity": -0.027673145876877303
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "discipleship.txt",
+        "similarity": -0.0417890446632096
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.024122806287423332
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "gospel.txt",
+        "similarity": -0.01399987010988105
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "eschatology.txt",
+        "similarity": -0.03680359251814233
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "scripture.txt",
+        "similarity": -0.03484059307290409
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.040030575483717974
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "missiology.txt",
+        "similarity": -0.023414633197093554
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "church_governance.txt",
+        "similarity": -0.02856516379428752
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "justification.txt",
+        "similarity": -0.03899543206323011
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "glorification.txt",
+        "similarity": -0.048631754530429894
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "apologetics.txt",
+        "similarity": -0.029895545151316573
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.03337589399381996
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "evangelism.txt",
+        "similarity": -0.01506838178227816
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "anthropology.txt",
+        "similarity": -0.035801711729035623
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.04955010600487708
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "church_history.txt",
+        "similarity": -0.011834955355128168
+    },
+    {
+        "s_id": 1000636575045,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.035904448060415164
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "sanctification.txt",
+        "similarity": -0.05964265800315376
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "doxology.txt",
+        "similarity": -0.07078398249229771
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "sacraments.txt",
+        "similarity": -0.031454990613388106
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.06728905371330673
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "christology.txt",
+        "similarity": -0.0645926425936045
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "trinity.txt",
+        "similarity": -0.06216585770952582
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "discipleship.txt",
+        "similarity": -0.048271427809649145
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.047861552797078724
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "gospel.txt",
+        "similarity": -0.038279247983720475
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "eschatology.txt",
+        "similarity": -0.06618370609446057
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "scripture.txt",
+        "similarity": -0.06764109086126235
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.06336883539694271
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "missiology.txt",
+        "similarity": -0.04832287888293048
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "church_governance.txt",
+        "similarity": -0.062367645099587574
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "justification.txt",
+        "similarity": -0.05957718286422928
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "glorification.txt",
+        "similarity": -0.0644845066042177
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "apologetics.txt",
+        "similarity": -0.0445031724754006
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.05824680198860512
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "evangelism.txt",
+        "similarity": -0.033787071380535355
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "anthropology.txt",
+        "similarity": -0.05731367485532781
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.06614087292792929
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "church_history.txt",
+        "similarity": -0.0364947442654068
+    },
+    {
+        "s_id": 1000638105570,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.04969480335349313
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "sanctification.txt",
+        "similarity": -0.02606926256984678
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "doxology.txt",
+        "similarity": -0.03516547058042409
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "sacraments.txt",
+        "similarity": 0.006116030892478892
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.026835467746060337
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "christology.txt",
+        "similarity": -0.013977836271493987
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "trinity.txt",
+        "similarity": -0.015891443974407254
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "discipleship.txt",
+        "similarity": -0.021641840201657117
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.011552355301062925
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "gospel.txt",
+        "similarity": -0.002415454506282131
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "eschatology.txt",
+        "similarity": -0.022155415364992985
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "scripture.txt",
+        "similarity": -0.023104145004486855
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.03334202192423427
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "missiology.txt",
+        "similarity": -0.007840813597279714
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "church_governance.txt",
+        "similarity": -0.02480649936501004
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "justification.txt",
+        "similarity": -0.01946675068546991
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "glorification.txt",
+        "similarity": -0.03151490244443807
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "apologetics.txt",
+        "similarity": -0.010905663818306884
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.027695270718876668
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "evangelism.txt",
+        "similarity": -0.0008404110972381446
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "anthropology.txt",
+        "similarity": -0.029488848978195162
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.04712355398925475
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "church_history.txt",
+        "similarity": 0.0006808150780769077
+    },
+    {
+        "s_id": 1000600673678,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.026414908347631723
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "sanctification.txt",
+        "similarity": -0.03389726423175052
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "doxology.txt",
+        "similarity": -0.04370913703527692
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "sacraments.txt",
+        "similarity": -0.012113499598889705
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.01939565040070056
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "christology.txt",
+        "similarity": -0.035140032230723976
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "trinity.txt",
+        "similarity": -0.04327259251394443
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "discipleship.txt",
+        "similarity": -0.0243958891733011
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.021462214822470026
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "gospel.txt",
+        "similarity": -0.03446220038828786
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "eschatology.txt",
+        "similarity": -0.019146249076218994
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "scripture.txt",
+        "similarity": -0.04599802533450799
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.04192026627341969
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "missiology.txt",
+        "similarity": -0.006966823133624976
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "church_governance.txt",
+        "similarity": -0.015880759015259236
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "justification.txt",
+        "similarity": -0.035674546440091555
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "glorification.txt",
+        "similarity": -0.04367544981867357
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "apologetics.txt",
+        "similarity": -0.02533973499854214
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.04365527794505358
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "evangelism.txt",
+        "similarity": -0.021467102749989253
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "anthropology.txt",
+        "similarity": -0.03083200024889872
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.03740521627309269
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "church_history.txt",
+        "similarity": -0.011549617179839116
+    },
+    {
+        "s_id": 1000608456662,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.03260342640214203
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "sanctification.txt",
+        "similarity": 0.007985074412676062
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "doxology.txt",
+        "similarity": -0.005145685872913065
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "sacraments.txt",
+        "similarity": 0.03906452775102254
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.009893556391119877
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "christology.txt",
+        "similarity": 0.0033247219174275732
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "trinity.txt",
+        "similarity": 0.005036203439455595
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "discipleship.txt",
+        "similarity": 0.012987215344106844
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.00860475817701747
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "gospel.txt",
+        "similarity": 0.01686176584466815
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "eschatology.txt",
+        "similarity": 0.0008010767538837839
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "scripture.txt",
+        "similarity": -0.011973844121863478
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.003981525296280543
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "missiology.txt",
+        "similarity": 0.012354903999251213
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "church_governance.txt",
+        "similarity": 0.01638527574674889
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "justification.txt",
+        "similarity": 0.017721770999311135
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "glorification.txt",
+        "similarity": -0.0005398646705040179
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "apologetics.txt",
+        "similarity": 0.02814021629334849
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.0037104744945543845
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "evangelism.txt",
+        "similarity": 0.027379107816804228
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "anthropology.txt",
+        "similarity": -0.016501663781356937
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.0015327637223230906
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "church_history.txt",
+        "similarity": 0.015003176979788528
+    },
+    {
+        "s_id": 1000598562867,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.02007109146948487
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "sanctification.txt",
+        "similarity": 0.0433999700991484
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "doxology.txt",
+        "similarity": 0.03295489952410063
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "sacraments.txt",
+        "similarity": 0.05468989658985243
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.012069114152220147
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "christology.txt",
+        "similarity": 0.033387195093545534
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "trinity.txt",
+        "similarity": 0.03643750924089734
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "discipleship.txt",
+        "similarity": 0.04595910262177139
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.039490380067203706
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "gospel.txt",
+        "similarity": 0.015326033196885684
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "eschatology.txt",
+        "similarity": 0.017927466572124663
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "scripture.txt",
+        "similarity": 0.028505396513502767
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.001640673865924767
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "missiology.txt",
+        "similarity": 0.017871723953053326
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "church_governance.txt",
+        "similarity": 0.02808032398298728
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "justification.txt",
+        "similarity": 0.03369328487669519
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "glorification.txt",
+        "similarity": 0.02227351583571173
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "apologetics.txt",
+        "similarity": 0.04106295355963186
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.00023755828716375688
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "evangelism.txt",
+        "similarity": 0.034923604228736506
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "anthropology.txt",
+        "similarity": 0.011992805252674795
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.0278349587030842
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "church_history.txt",
+        "similarity": 0.0288555155484663
+    },
+    {
+        "s_id": 1000609181862,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.0432411848177557
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "sanctification.txt",
+        "similarity": 0.01967209165847245
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "doxology.txt",
+        "similarity": 0.010556577598874153
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "sacraments.txt",
+        "similarity": 0.020529487654851613
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.00392131006804314
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "christology.txt",
+        "similarity": 0.016618046408403093
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "trinity.txt",
+        "similarity": 0.011196469329594928
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "discipleship.txt",
+        "similarity": 0.017332974594774064
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.009298300042299885
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "gospel.txt",
+        "similarity": 0.02226470278758789
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "eschatology.txt",
+        "similarity": 0.03403043243340191
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "scripture.txt",
+        "similarity": -0.004617215124334202
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.018740436056508276
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "missiology.txt",
+        "similarity": 0.011260223815216512
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "church_governance.txt",
+        "similarity": 0.005528832753616621
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "justification.txt",
+        "similarity": 0.02164927158321457
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "glorification.txt",
+        "similarity": 0.01296670992647083
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "apologetics.txt",
+        "similarity": 0.03486955979030966
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.02064772834865509
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "evangelism.txt",
+        "similarity": 0.02686824658563574
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "anthropology.txt",
+        "similarity": 0.007487541205226884
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.010662336060832417
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "church_history.txt",
+        "similarity": 0.023405174048664032
+    },
+    {
+        "s_id": 1000603846461,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.003168933414361032
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "sanctification.txt",
+        "similarity": -0.021027290062656027
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "doxology.txt",
+        "similarity": -0.05040153462136482
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "sacraments.txt",
+        "similarity": -0.02647367544386912
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.04173079085746239
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "christology.txt",
+        "similarity": -0.035665716794972734
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "trinity.txt",
+        "similarity": -0.02819679964973724
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "discipleship.txt",
+        "similarity": -0.02846593235328597
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.010159191131318322
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "gospel.txt",
+        "similarity": -0.020792055349792744
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "eschatology.txt",
+        "similarity": -0.04540881372537906
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "scripture.txt",
+        "similarity": -0.034644170772597724
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.022159888186761328
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "missiology.txt",
+        "similarity": -0.04120071119473822
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "church_governance.txt",
+        "similarity": -0.053544745944561246
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "justification.txt",
+        "similarity": -0.007758319577599364
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "glorification.txt",
+        "similarity": -0.016027839271195048
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "apologetics.txt",
+        "similarity": -0.013155407477804448
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.019389488621913656
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "evangelism.txt",
+        "similarity": -0.0317175258547249
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "anthropology.txt",
+        "similarity": -0.015470254435782083
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.021915986825099595
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "church_history.txt",
+        "similarity": -0.02836503116796013
+    },
+    {
+        "s_id": 1000616133581,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.02461961261818953
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "sanctification.txt",
+        "similarity": -0.034010138878667356
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "doxology.txt",
+        "similarity": -0.053092260302557606
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "sacraments.txt",
+        "similarity": -0.009848958157442671
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.0385090493277586
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "christology.txt",
+        "similarity": -0.027734550768081186
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "trinity.txt",
+        "similarity": -0.03976350182476764
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "discipleship.txt",
+        "similarity": -0.026851381276959966
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.02578218115744184
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "gospel.txt",
+        "similarity": -0.01666139452201599
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "eschatology.txt",
+        "similarity": -0.037110703590336316
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "scripture.txt",
+        "similarity": -0.0384408839356067
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.04201390532156443
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "missiology.txt",
+        "similarity": -0.01963723909882335
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "church_governance.txt",
+        "similarity": -0.04729578861440761
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "justification.txt",
+        "similarity": -0.02501493013235678
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "glorification.txt",
+        "similarity": -0.04036696263738357
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "apologetics.txt",
+        "similarity": -0.02060899040758594
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.035715154112766365
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "evangelism.txt",
+        "similarity": -0.013581160238937325
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "anthropology.txt",
+        "similarity": -0.03796748341313792
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.06452530417347442
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "church_history.txt",
+        "similarity": -0.011297607118154803
+    },
+    {
+        "s_id": 1000599232217,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.03396358090740746
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "sanctification.txt",
+        "similarity": -0.03204604004720078
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "doxology.txt",
+        "similarity": -0.049000668130129904
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "sacraments.txt",
+        "similarity": -0.010116593714230581
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.026319652080953812
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "christology.txt",
+        "similarity": -0.04200434801478315
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "trinity.txt",
+        "similarity": -0.0100784865054798
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "discipleship.txt",
+        "similarity": -0.031026725908721818
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.011792437547191913
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "gospel.txt",
+        "similarity": -0.02205456740172849
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "eschatology.txt",
+        "similarity": -0.027147039552131543
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "scripture.txt",
+        "similarity": -0.05122628088915178
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.011325398911171467
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "missiology.txt",
+        "similarity": -0.04120630581393293
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "church_governance.txt",
+        "similarity": -0.02936775850418146
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "justification.txt",
+        "similarity": -0.024797052535154015
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "glorification.txt",
+        "similarity": -0.019959418404417766
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "apologetics.txt",
+        "similarity": -0.021261175498596366
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.040801791165565086
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "evangelism.txt",
+        "similarity": -0.015890806666810482
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "anthropology.txt",
+        "similarity": -0.0224916158944733
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.012456226650295206
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "church_history.txt",
+        "similarity": -0.03683097069787657
+    },
+    {
+        "s_id": 1000616556909,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.04046515012318563
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "sanctification.txt",
+        "similarity": 0.0009109925568499201
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "doxology.txt",
+        "similarity": -0.01998392013315357
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "sacraments.txt",
+        "similarity": 0.0006866266930738892
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.001657908335034682
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "christology.txt",
+        "similarity": -0.0027335296373495552
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "trinity.txt",
+        "similarity": -0.015345590093403232
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "discipleship.txt",
+        "similarity": -0.011004555584460929
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.0018333449445994202
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "gospel.txt",
+        "similarity": 0.0032847275243731225
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "eschatology.txt",
+        "similarity": -0.015139191930598638
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "scripture.txt",
+        "similarity": -0.017596328580870776
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.011489808258663478
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "missiology.txt",
+        "similarity": -0.004204679822077525
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "church_governance.txt",
+        "similarity": -0.007265612242203503
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "justification.txt",
+        "similarity": 0.014023042397000585
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "glorification.txt",
+        "similarity": -0.004342887822782939
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "apologetics.txt",
+        "similarity": 0.02275376727981726
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.005855722536367309
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "evangelism.txt",
+        "similarity": 0.01699262204892133
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "anthropology.txt",
+        "similarity": -0.018482891933624103
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.01891430486961919
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "church_history.txt",
+        "similarity": 0.01975538730959767
+    },
+    {
+        "s_id": 1000604896032,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.015711106993152604
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "sanctification.txt",
+        "similarity": 0.02919399749921477
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "doxology.txt",
+        "similarity": -0.002801589209806032
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "sacraments.txt",
+        "similarity": 0.05206495876444091
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.015139086066325512
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "christology.txt",
+        "similarity": 0.017636136775535237
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "trinity.txt",
+        "similarity": 0.028950259129614058
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "discipleship.txt",
+        "similarity": 0.025387707501315925
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.03420730443119186
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "gospel.txt",
+        "similarity": 0.0436300527191391
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "eschatology.txt",
+        "similarity": 0.01908915921685756
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "scripture.txt",
+        "similarity": 0.020347692364259158
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.019545280029775642
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "missiology.txt",
+        "similarity": 0.018069352419802957
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "church_governance.txt",
+        "similarity": 0.004607638852847972
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "justification.txt",
+        "similarity": 0.032063482379191516
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "glorification.txt",
+        "similarity": 0.03331244838941132
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "apologetics.txt",
+        "similarity": 0.018843795992613467
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.02996508364224952
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "evangelism.txt",
+        "similarity": 0.04264274507499129
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "anthropology.txt",
+        "similarity": 0.031804944668517326
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.02418662414552307
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "church_history.txt",
+        "similarity": 0.02288881674109458
+    },
+    {
+        "s_id": 1000613929386,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.026576509325852885
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "sanctification.txt",
+        "similarity": -0.01689695717577564
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "doxology.txt",
+        "similarity": -0.012760564551484919
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "sacraments.txt",
+        "similarity": 0.017072110701351013
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.026505830006459945
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "christology.txt",
+        "similarity": -0.00902760246673936
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "trinity.txt",
+        "similarity": -0.012723132115302991
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "discipleship.txt",
+        "similarity": -0.010115922463412082
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.002103875798891058
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "gospel.txt",
+        "similarity": 0.0022948691919172713
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "eschatology.txt",
+        "similarity": -0.013292680792995696
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "scripture.txt",
+        "similarity": -0.016772958997857974
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.003439593672388422
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "missiology.txt",
+        "similarity": -0.01925096400573264
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "church_governance.txt",
+        "similarity": -0.028352944468554915
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "justification.txt",
+        "similarity": -0.012838947704543958
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "glorification.txt",
+        "similarity": -0.020109456808009164
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "apologetics.txt",
+        "similarity": -0.009845667981839615
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.01887953550301848
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "evangelism.txt",
+        "similarity": 0.0008878567560659744
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "anthropology.txt",
+        "similarity": -0.024994280843342292
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.02634893486207668
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "church_history.txt",
+        "similarity": 0.002682136375100595
+    },
+    {
+        "s_id": 1000621333743,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.012500663867127438
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "sanctification.txt",
+        "similarity": 0.02600831831878266
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "doxology.txt",
+        "similarity": 0.004423817260199137
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "sacraments.txt",
+        "similarity": 0.02691891245024189
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.0031541036885615868
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "christology.txt",
+        "similarity": 0.008822566181496539
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "trinity.txt",
+        "similarity": 0.0157973832977592
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "discipleship.txt",
+        "similarity": 0.01379275116284915
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.027654007156077284
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "gospel.txt",
+        "similarity": 0.02330737305747145
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "eschatology.txt",
+        "similarity": 0.0041629087163117875
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "scripture.txt",
+        "similarity": 0.025901260104339456
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.008277487056610851
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "missiology.txt",
+        "similarity": 0.013125154579100132
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "church_governance.txt",
+        "similarity": 0.009188164127222804
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "justification.txt",
+        "similarity": 0.02538891989765511
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "glorification.txt",
+        "similarity": 0.024003156657231912
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "apologetics.txt",
+        "similarity": 0.024325087311755093
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.028792048936899583
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "evangelism.txt",
+        "similarity": 0.03662589443576835
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "anthropology.txt",
+        "similarity": 0.01334921716731328
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.02233222725873704
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "church_history.txt",
+        "similarity": 0.016257890160608676
+    },
+    {
+        "s_id": 1000607042140,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.005040049538792727
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "sanctification.txt",
+        "similarity": 0.009972748292742431
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "doxology.txt",
+        "similarity": -0.0026583504524136
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "sacraments.txt",
+        "similarity": 0.017090764510618535
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.0019699655392338145
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "christology.txt",
+        "similarity": 0.0005837794802080803
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "trinity.txt",
+        "similarity": 0.005987015621612002
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "discipleship.txt",
+        "similarity": -0.00013901265214511654
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.007060383187259312
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "gospel.txt",
+        "similarity": 0.016234193703246847
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "eschatology.txt",
+        "similarity": -0.006083706423850619
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "scripture.txt",
+        "similarity": 0.0018629013165504518
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.006041581399762533
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "missiology.txt",
+        "similarity": 0.009985440037436084
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "church_governance.txt",
+        "similarity": -0.006130946114612764
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "justification.txt",
+        "similarity": 0.011916649709889685
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "glorification.txt",
+        "similarity": 0.012202731187971428
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "apologetics.txt",
+        "similarity": 0.023624636640641204
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.0004884345115332527
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "evangelism.txt",
+        "similarity": 0.030422466912674362
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "anthropology.txt",
+        "similarity": -0.0003452986908728424
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.0037274271648513628
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "church_history.txt",
+        "similarity": -0.0027379868808259573
+    },
+    {
+        "s_id": 1000612104687,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.0034992002668602206
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "sanctification.txt",
+        "similarity": -0.003425758453033496
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "doxology.txt",
+        "similarity": -0.040143367512459616
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "sacraments.txt",
+        "similarity": 0.008474834768929093
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.012237622787428536
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "christology.txt",
+        "similarity": -0.018869231101501256
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "trinity.txt",
+        "similarity": -0.00892315542856274
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "discipleship.txt",
+        "similarity": -0.006705893473200691
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.011904573070501474
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "gospel.txt",
+        "similarity": 0.014475651685044055
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "eschatology.txt",
+        "similarity": 0.009156655692493751
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "scripture.txt",
+        "similarity": -0.009995324226799863
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.011081284417478262
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "missiology.txt",
+        "similarity": -0.014201946232251473
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "church_governance.txt",
+        "similarity": -0.020448650026536716
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "justification.txt",
+        "similarity": -0.01945576745854885
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "glorification.txt",
+        "similarity": -0.012761847225602776
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "apologetics.txt",
+        "similarity": -0.0003204798120161937
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.004595013867653979
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "evangelism.txt",
+        "similarity": 0.018377655618604667
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "anthropology.txt",
+        "similarity": 0.017318252845678082
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.007999948143128587
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "church_history.txt",
+        "similarity": -0.0166313576714918
+    },
+    {
+        "s_id": 1000606519415,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.022461929721615505
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "sanctification.txt",
+        "similarity": 0.014927876530362915
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "doxology.txt",
+        "similarity": -0.005733127578058529
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "sacraments.txt",
+        "similarity": 0.022576408494185754
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.012377648751703855
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "christology.txt",
+        "similarity": 0.007130012205327939
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "trinity.txt",
+        "similarity": -0.00328900859422119
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "discipleship.txt",
+        "similarity": 0.012473373886310025
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.02088337472688761
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "gospel.txt",
+        "similarity": 0.010868525562837026
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "eschatology.txt",
+        "similarity": 0.003723098925711512
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "scripture.txt",
+        "similarity": 0.006774655073063072
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.0019038553420977656
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "missiology.txt",
+        "similarity": -0.0003809199668888888
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "church_governance.txt",
+        "similarity": 0.005428884164582525
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "justification.txt",
+        "similarity": 0.0054030488453219415
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "glorification.txt",
+        "similarity": 0.014497648411530738
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "apologetics.txt",
+        "similarity": 0.029075208513416134
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.00787980241245788
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "evangelism.txt",
+        "similarity": 0.023769957051620324
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "anthropology.txt",
+        "similarity": -0.001113564069657404
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.017039941355732235
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "church_history.txt",
+        "similarity": 0.014970686124446691
+    },
+    {
+        "s_id": 1000619052958,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.012445089084932925
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "sanctification.txt",
+        "similarity": 0.007283969952814692
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "doxology.txt",
+        "similarity": -0.025241639289116692
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "sacraments.txt",
+        "similarity": 0.011957050389187561
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.014441372282815858
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "christology.txt",
+        "similarity": -0.001707624259937571
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "trinity.txt",
+        "similarity": -0.007325723982269272
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "discipleship.txt",
+        "similarity": 0.001336832132737478
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.01267316981911386
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "gospel.txt",
+        "similarity": -0.01016618570264825
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "eschatology.txt",
+        "similarity": -0.018887840753580343
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "scripture.txt",
+        "similarity": -0.004725464164275826
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.014150870624680671
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "missiology.txt",
+        "similarity": -0.005264300761996889
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "church_governance.txt",
+        "similarity": -0.0040854769284990105
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "justification.txt",
+        "similarity": 0.0008884195044261457
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "glorification.txt",
+        "similarity": -0.009508715847906938
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "apologetics.txt",
+        "similarity": 0.002820908203326156
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.011740160396743022
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "evangelism.txt",
+        "similarity": 0.01906318581917004
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "anthropology.txt",
+        "similarity": -0.008911263709672327
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.005806006348483803
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "church_history.txt",
+        "similarity": 0.00460285942870575
+    },
+    {
+        "s_id": 1000601951091,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.009918046139830876
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "sanctification.txt",
+        "similarity": -0.0535920168074352
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "doxology.txt",
+        "similarity": -0.05252218224512146
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "sacraments.txt",
+        "similarity": -0.006825918233705475
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.05809794499971585
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "christology.txt",
+        "similarity": -0.04551878658401827
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "trinity.txt",
+        "similarity": -0.04522354669213364
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "discipleship.txt",
+        "similarity": -0.05527948880023204
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.03409741327418408
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "gospel.txt",
+        "similarity": -0.031941452977563116
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "eschatology.txt",
+        "similarity": -0.045373075348962844
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "scripture.txt",
+        "similarity": -0.04920473636982529
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.05146226913958794
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "missiology.txt",
+        "similarity": -0.03926538090700446
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "church_governance.txt",
+        "similarity": -0.05263741876137812
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "justification.txt",
+        "similarity": -0.04891921418430365
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "glorification.txt",
+        "similarity": -0.05597345817111789
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "apologetics.txt",
+        "similarity": -0.03885617537243407
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.039795920304228516
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "evangelism.txt",
+        "similarity": -0.02401101237648509
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "anthropology.txt",
+        "similarity": -0.038435060725383816
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.05584642567485139
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "church_history.txt",
+        "similarity": -0.02697441367930632
+    },
+    {
+        "s_id": 1000609187528,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.0485716407611579
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "sanctification.txt",
+        "similarity": -0.023347592388262416
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "doxology.txt",
+        "similarity": -0.0300747656168558
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "sacraments.txt",
+        "similarity": -0.004106883183822088
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.029800583370754277
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "christology.txt",
+        "similarity": -0.020521203497954082
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "trinity.txt",
+        "similarity": -0.022135697433054956
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "discipleship.txt",
+        "similarity": -0.03214779688138548
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.010033462402031849
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "gospel.txt",
+        "similarity": -0.010682182277286496
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "eschatology.txt",
+        "similarity": -0.026396322997135353
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "scripture.txt",
+        "similarity": -0.030923263482267996
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.015351728056122324
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "missiology.txt",
+        "similarity": -0.02631883609030699
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "church_governance.txt",
+        "similarity": -0.036985829573581576
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "justification.txt",
+        "similarity": -0.009376259985224606
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "glorification.txt",
+        "similarity": -0.004505277886646966
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "apologetics.txt",
+        "similarity": 0.013387029040935439
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.012902397634650361
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "evangelism.txt",
+        "similarity": -0.014935464624531292
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "anthropology.txt",
+        "similarity": -0.011099631540993833
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.0043686669590325515
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "church_history.txt",
+        "similarity": -0.02119843606396051
+    },
+    {
+        "s_id": 1000615076537,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.03985488476998742
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "sanctification.txt",
+        "similarity": -0.019471548050522418
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "doxology.txt",
+        "similarity": -0.03457190845631303
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "sacraments.txt",
+        "similarity": -0.013254683497072681
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.03039330501368409
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "christology.txt",
+        "similarity": -0.03131559068019095
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "trinity.txt",
+        "similarity": -0.02889555123694156
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "discipleship.txt",
+        "similarity": -0.03672647446001655
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.013015076486195903
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "gospel.txt",
+        "similarity": -0.028385806155138832
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "eschatology.txt",
+        "similarity": -0.035076681541169094
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "scripture.txt",
+        "similarity": -0.03524855891120809
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.03118412289843
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "missiology.txt",
+        "similarity": -0.03713310660543097
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "church_governance.txt",
+        "similarity": -0.009786168569302237
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "justification.txt",
+        "similarity": -0.02365162836660862
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "glorification.txt",
+        "similarity": -0.02888871361170749
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "apologetics.txt",
+        "similarity": -0.017182295405523636
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.017665922574989827
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "evangelism.txt",
+        "similarity": -0.018102572958453286
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "anthropology.txt",
+        "similarity": -0.027338694482331546
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.03464078599534668
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "church_history.txt",
+        "similarity": -0.01453170025937761
+    },
+    {
+        "s_id": 1000613927680,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.038486576788801345
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "sanctification.txt",
+        "similarity": -0.005721207079215316
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "doxology.txt",
+        "similarity": -0.017642923965368484
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "sacraments.txt",
+        "similarity": 0.006274358483743671
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.02903204749588119
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "christology.txt",
+        "similarity": -0.0034925039944401336
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "trinity.txt",
+        "similarity": -0.006048124527550368
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "discipleship.txt",
+        "similarity": -0.004121193490987705
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.008093393530621258
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "gospel.txt",
+        "similarity": -0.012830383289062448
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "eschatology.txt",
+        "similarity": -0.006545581904382685
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "scripture.txt",
+        "similarity": -0.00653581092764558
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.009360354473779305
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "missiology.txt",
+        "similarity": -0.012551251948559964
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "church_governance.txt",
+        "similarity": -0.026331712596045272
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "justification.txt",
+        "similarity": 0.0038746218219684395
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "glorification.txt",
+        "similarity": -0.0130885831733169
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "apologetics.txt",
+        "similarity": 0.006123556202023478
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.02833484507356052
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "evangelism.txt",
+        "similarity": 0.006629295838657406
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "anthropology.txt",
+        "similarity": -0.020439499311244093
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.012394476791339563
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "church_history.txt",
+        "similarity": 0.003943728806179438
+    },
+    {
+        "s_id": 1000630608660,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.0008054830391856912
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "sanctification.txt",
+        "similarity": -0.030039964036380033
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "doxology.txt",
+        "similarity": -0.029338003525969263
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "sacraments.txt",
+        "similarity": 0.002128608898094986
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.04298729284830385
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "christology.txt",
+        "similarity": -0.020969782546620613
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "trinity.txt",
+        "similarity": -0.02037363361531165
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "discipleship.txt",
+        "similarity": -0.033560690942227744
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.017845778958484257
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "gospel.txt",
+        "similarity": -0.013531849982005073
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "eschatology.txt",
+        "similarity": -0.02531031467213831
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "scripture.txt",
+        "similarity": -0.023822130718340197
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.028911617864989126
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "missiology.txt",
+        "similarity": -0.020044233383766888
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "church_governance.txt",
+        "similarity": -0.03669261106021658
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "justification.txt",
+        "similarity": -0.02116059450005762
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "glorification.txt",
+        "similarity": -0.04174284470983336
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "apologetics.txt",
+        "similarity": -0.01259290070053025
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.034776783582078016
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "evangelism.txt",
+        "similarity": -0.010947534868115387
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "anthropology.txt",
+        "similarity": -0.02608634485206964
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.03230250777145978
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "church_history.txt",
+        "similarity": -0.010610878790118043
+    },
+    {
+        "s_id": 1000633017200,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.029789463942451397
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "sanctification.txt",
+        "similarity": 0.01344681038431432
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "doxology.txt",
+        "similarity": 0.0007558928253036451
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "sacraments.txt",
+        "similarity": 0.011359043618107469
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.0003600598412639676
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "christology.txt",
+        "similarity": 0.00625989494745928
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "trinity.txt",
+        "similarity": 0.011860228532473104
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "discipleship.txt",
+        "similarity": 0.010844332011727596
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.011455368772549981
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "gospel.txt",
+        "similarity": -0.011428936349879015
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "eschatology.txt",
+        "similarity": 0.0019071441447715376
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "scripture.txt",
+        "similarity": 0.0026035766060685515
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.004548681247510306
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "missiology.txt",
+        "similarity": 0.007061486674927488
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "church_governance.txt",
+        "similarity": 0.005184627265591518
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "justification.txt",
+        "similarity": 0.00990732528812353
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "glorification.txt",
+        "similarity": 0.004631931430229715
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "apologetics.txt",
+        "similarity": 0.005221081489631078
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.0020076686900094543
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "evangelism.txt",
+        "similarity": 0.019352027594157162
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "anthropology.txt",
+        "similarity": -0.012251717720286966
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.015035826263501178
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "church_history.txt",
+        "similarity": 0.018623779407215317
+    },
+    {
+        "s_id": 1000597345443,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.007992642565803447
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "sanctification.txt",
+        "similarity": 0.04531735960974505
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "doxology.txt",
+        "similarity": 0.023435477402340282
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "sacraments.txt",
+        "similarity": 0.03901984861318594
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.02100100447952155
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "christology.txt",
+        "similarity": 0.026682794239682086
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "trinity.txt",
+        "similarity": 0.02477887517739024
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "discipleship.txt",
+        "similarity": 0.0186232615568485
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.023757852433533552
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "gospel.txt",
+        "similarity": 0.028789951313115406
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "eschatology.txt",
+        "similarity": 0.019578401185390774
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "scripture.txt",
+        "similarity": 0.014293624453300834
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.02183839146768647
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "missiology.txt",
+        "similarity": 0.02254947092045824
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "church_governance.txt",
+        "similarity": -0.001531333659778495
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "justification.txt",
+        "similarity": 0.04177177464459305
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "glorification.txt",
+        "similarity": 0.04466375786027782
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "apologetics.txt",
+        "similarity": 0.0498254139517968
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.010815118698336606
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "evangelism.txt",
+        "similarity": 0.03981635071285493
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "anthropology.txt",
+        "similarity": 0.0009163210985772157
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.012856712167267968
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "church_history.txt",
+        "similarity": 0.026050817501154924
+    },
+    {
+        "s_id": 1000597345214,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.01991510770905184
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "sanctification.txt",
+        "similarity": -0.044644341863524305
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "doxology.txt",
+        "similarity": -0.051578007565809346
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "sacraments.txt",
+        "similarity": 0.003019069449633361
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.049257639149648126
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "christology.txt",
+        "similarity": -0.03883973122602735
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "trinity.txt",
+        "similarity": -0.035769024844109445
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "discipleship.txt",
+        "similarity": -0.03603406772722139
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.020649264611441235
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "gospel.txt",
+        "similarity": -0.014559596857700844
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "eschatology.txt",
+        "similarity": -0.043435912906550043
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "scripture.txt",
+        "similarity": -0.046922875301423556
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.04535898152431164
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "missiology.txt",
+        "similarity": -0.03208109126176682
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "church_governance.txt",
+        "similarity": -0.031524866119211785
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "justification.txt",
+        "similarity": -0.04110052110170348
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "glorification.txt",
+        "similarity": -0.050714150749276585
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "apologetics.txt",
+        "similarity": -0.021814701875436524
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.032822502375909515
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "evangelism.txt",
+        "similarity": -0.014122309102792998
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "anthropology.txt",
+        "similarity": -0.0417374490707361
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.05382941209575927
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "church_history.txt",
+        "similarity": -0.013698684605822749
+    },
+    {
+        "s_id": 1000591927285,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.03894189375215525
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "sanctification.txt",
+        "similarity": -0.04949074429673632
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "doxology.txt",
+        "similarity": -0.06857032990762629
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "sacraments.txt",
+        "similarity": -0.015105532005517019
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.05655817790044963
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "christology.txt",
+        "similarity": -0.04761826933718258
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "trinity.txt",
+        "similarity": -0.043189763911902684
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "discipleship.txt",
+        "similarity": -0.047893003714934906
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.04374936513205237
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "gospel.txt",
+        "similarity": -0.032335183258138965
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "eschatology.txt",
+        "similarity": -0.05271462185940046
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "scripture.txt",
+        "similarity": -0.0488611389238911
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.05491900236332144
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "missiology.txt",
+        "similarity": -0.04501955716690477
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "church_governance.txt",
+        "similarity": -0.05953505548227049
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "justification.txt",
+        "similarity": -0.04649207597533898
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "glorification.txt",
+        "similarity": -0.061476120867151186
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "apologetics.txt",
+        "similarity": -0.04301201988375626
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.054268288994499925
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "evangelism.txt",
+        "similarity": -0.02866510781637836
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "anthropology.txt",
+        "similarity": -0.048747842019688764
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.06062855004653204
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "church_history.txt",
+        "similarity": -0.02610402369684745
+    },
+    {
+        "s_id": 1000634552297,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.051166062418445415
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "sanctification.txt",
+        "similarity": 0.016372718473716966
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "doxology.txt",
+        "similarity": 0.009188389902627063
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "sacraments.txt",
+        "similarity": 0.03335859760602625
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.002379271774004106
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "christology.txt",
+        "similarity": 0.010123369616292881
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "trinity.txt",
+        "similarity": 0.013824087902440383
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "discipleship.txt",
+        "similarity": 0.011761584455893608
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.017363501425906487
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "gospel.txt",
+        "similarity": 0.03509655080243412
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "eschatology.txt",
+        "similarity": 0.01624387586945647
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "scripture.txt",
+        "similarity": 0.017340793267903554
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.010820032529244787
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "missiology.txt",
+        "similarity": 0.010456311739085445
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "church_governance.txt",
+        "similarity": -0.007595899535895698
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "justification.txt",
+        "similarity": 0.023049443791639822
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "glorification.txt",
+        "similarity": 0.019298344272898144
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "apologetics.txt",
+        "similarity": 0.02277826898593513
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.009282112293703536
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "evangelism.txt",
+        "similarity": 0.029160892958783415
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "anthropology.txt",
+        "similarity": 0.020269045096442676
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.013395828579692277
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "church_history.txt",
+        "similarity": -0.007992118804527517
+    },
+    {
+        "s_id": 1000637341083,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.013439048888368957
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "sanctification.txt",
+        "similarity": 0.00518078768879607
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "doxology.txt",
+        "similarity": -0.008022085552780573
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "sacraments.txt",
+        "similarity": 0.015334585719789157
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.009969637506914531
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "christology.txt",
+        "similarity": -0.007073525307800914
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "trinity.txt",
+        "similarity": -0.004309466615058736
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "discipleship.txt",
+        "similarity": 0.006832367947742711
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.005649308395712985
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "gospel.txt",
+        "similarity": 0.019496184912596453
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "eschatology.txt",
+        "similarity": 0.002753491256824947
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "scripture.txt",
+        "similarity": -0.001489561631509944
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.0012848613044894892
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "missiology.txt",
+        "similarity": -0.0004433776729207209
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "church_governance.txt",
+        "similarity": -0.006924153097493508
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "justification.txt",
+        "similarity": -0.014104472914971463
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "glorification.txt",
+        "similarity": -0.0040854069936815144
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "apologetics.txt",
+        "similarity": 0.011969655337948071
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.0022300209589040058
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "evangelism.txt",
+        "similarity": 0.01772678171164184
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "anthropology.txt",
+        "similarity": 0.0076853600336223675
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.01402310979944744
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "church_history.txt",
+        "similarity": -0.013619034363298978
+    },
+    {
+        "s_id": 1000618294383,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.006788485610136667
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "sanctification.txt",
+        "similarity": -0.03558956602218776
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "doxology.txt",
+        "similarity": -0.03990004715982168
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "sacraments.txt",
+        "similarity": 0.004592081158477257
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.044533349737822026
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "christology.txt",
+        "similarity": -0.025760067886815174
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "trinity.txt",
+        "similarity": -0.02749839890142506
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "discipleship.txt",
+        "similarity": -0.027211484986494887
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.018261324652129676
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "gospel.txt",
+        "similarity": -0.017993304490056896
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "eschatology.txt",
+        "similarity": -0.034827117611233124
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "scripture.txt",
+        "similarity": -0.03142338868355937
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.035834971336907176
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "missiology.txt",
+        "similarity": -0.025160306699165847
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "church_governance.txt",
+        "similarity": -0.03858670303584204
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "justification.txt",
+        "similarity": -0.033552365913449275
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "glorification.txt",
+        "similarity": -0.04828018701581776
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "apologetics.txt",
+        "similarity": -0.016641538035889435
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.04007847494532043
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "evangelism.txt",
+        "similarity": -0.0066690754034184705
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "anthropology.txt",
+        "similarity": -0.043927711182152177
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.05056665946427823
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "church_history.txt",
+        "similarity": -0.010894138205388787
+    },
+    {
+        "s_id": 1000620646659,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.030288711671416682
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "sanctification.txt",
+        "similarity": -0.007894036383846106
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "doxology.txt",
+        "similarity": -0.03276055687911423
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "sacraments.txt",
+        "similarity": -0.017189621703933247
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.028317129120900196
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "christology.txt",
+        "similarity": -0.018661993678386182
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "trinity.txt",
+        "similarity": -0.028644205456284752
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "discipleship.txt",
+        "similarity": -0.016294554981500165
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.008939693156294242
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "gospel.txt",
+        "similarity": -0.02139792321075576
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "eschatology.txt",
+        "similarity": -0.03069741071985034
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "scripture.txt",
+        "similarity": -0.016184539822769503
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.028014726988505077
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "missiology.txt",
+        "similarity": -0.029458313967414707
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "church_governance.txt",
+        "similarity": -0.02307102608768875
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "justification.txt",
+        "similarity": -0.009143562018804438
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "glorification.txt",
+        "similarity": -0.020920485674420838
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "apologetics.txt",
+        "similarity": 0.008278503273094564
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.026701511607901997
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "evangelism.txt",
+        "similarity": -0.007285296812502491
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "anthropology.txt",
+        "similarity": -0.0371551045217743
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.011549971017779138
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "church_history.txt",
+        "similarity": -0.02373690389473337
+    },
+    {
+        "s_id": 1000611933131,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.025107110658357197
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "sanctification.txt",
+        "similarity": -0.03878344742633547
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "doxology.txt",
+        "similarity": -0.02540081944240559
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "sacraments.txt",
+        "similarity": 0.007263352947581254
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.0373745160336475
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "christology.txt",
+        "similarity": -0.022516155572605494
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "trinity.txt",
+        "similarity": -0.021651388692160267
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "discipleship.txt",
+        "similarity": -0.02440765717969563
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.006320258109826381
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "gospel.txt",
+        "similarity": -0.012098964765369653
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "eschatology.txt",
+        "similarity": -0.02665578057513472
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "scripture.txt",
+        "similarity": -0.020625117180596224
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.03417521077158976
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "missiology.txt",
+        "similarity": -0.023010792520926016
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "church_governance.txt",
+        "similarity": -0.025262162171319325
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "justification.txt",
+        "similarity": -0.027538516987121713
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "glorification.txt",
+        "similarity": -0.04309570987383618
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "apologetics.txt",
+        "similarity": -0.004363535883025937
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.0224656763699319
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "evangelism.txt",
+        "similarity": -0.0031732539499403894
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "anthropology.txt",
+        "similarity": -0.03327253453354787
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.032850085197716386
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "church_history.txt",
+        "similarity": -0.004429904920001606
+    },
+    {
+        "s_id": 1000610296486,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.026851274333930215
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "sanctification.txt",
+        "similarity": 0.0018097146511766825
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "doxology.txt",
+        "similarity": -0.006332658980357754
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "sacraments.txt",
+        "similarity": 0.01928380819605042
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.035682517716432036
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "christology.txt",
+        "similarity": -0.018163541539703197
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "trinity.txt",
+        "similarity": -0.018433402184087316
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "discipleship.txt",
+        "similarity": -0.006716605325206196
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.0010111898139069878
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "gospel.txt",
+        "similarity": -0.004918802466239698
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "eschatology.txt",
+        "similarity": -0.02711685163932983
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "scripture.txt",
+        "similarity": -0.0048019935605099935
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.027092460809375284
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "missiology.txt",
+        "similarity": -0.020465777480884233
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "church_governance.txt",
+        "similarity": -0.030916361984655413
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "justification.txt",
+        "similarity": -0.0035832938404385495
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "glorification.txt",
+        "similarity": -0.008988226266369408
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "apologetics.txt",
+        "similarity": -0.0020545253345185827
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.03137298627600089
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "evangelism.txt",
+        "similarity": 0.0036572232654459177
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "anthropology.txt",
+        "similarity": -0.031016546793128822
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.029781607944623385
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "church_history.txt",
+        "similarity": -0.008961353267220723
+    },
+    {
+        "s_id": 1000594761843,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.0036764678890565325
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "sanctification.txt",
+        "similarity": 0.03749870633240797
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "doxology.txt",
+        "similarity": 0.02535559581568376
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "sacraments.txt",
+        "similarity": 0.05292785045100552
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "church_discipline.txt",
+        "similarity": 0.028788324496426848
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "christology.txt",
+        "similarity": 0.02795999637966383
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "trinity.txt",
+        "similarity": 0.010359122076683991
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "discipleship.txt",
+        "similarity": 0.032083044438278835
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.036597968019489655
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "gospel.txt",
+        "similarity": 0.04562985726702761
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "eschatology.txt",
+        "similarity": 0.039925838109106666
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "scripture.txt",
+        "similarity": 0.014426160421172708
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": 0.0228736346510881
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "missiology.txt",
+        "similarity": 0.04047198844688487
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "church_governance.txt",
+        "similarity": 0.021514727941320488
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "justification.txt",
+        "similarity": 0.03261697802179487
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "glorification.txt",
+        "similarity": 0.0420000557481303
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "apologetics.txt",
+        "similarity": 0.03783757279282132
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "hamartiology.txt",
+        "similarity": 0.03194097308299641
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "evangelism.txt",
+        "similarity": 0.05205644877443216
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "anthropology.txt",
+        "similarity": 0.027665971920819366
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "divine_attributes.txt",
+        "similarity": 0.022297316995965277
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "church_history.txt",
+        "similarity": 0.04510156161844952
+    },
+    {
+        "s_id": 1000593346263,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": 0.032044500195056176
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "sanctification.txt",
+        "similarity": -0.03379229937544283
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "doxology.txt",
+        "similarity": -0.02852026819628065
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "sacraments.txt",
+        "similarity": 0.00761579598621187
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.03660546231218689
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "christology.txt",
+        "similarity": -0.01650166240865218
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "trinity.txt",
+        "similarity": -0.018522528598050314
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "discipleship.txt",
+        "similarity": -0.01740412185572621
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "christian_ethics.txt",
+        "similarity": -0.024334549432046694
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "gospel.txt",
+        "similarity": -0.007579484377196128
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "eschatology.txt",
+        "similarity": -0.021550952743227974
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "scripture.txt",
+        "similarity": -0.020793411564345655
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.02276029835684633
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "missiology.txt",
+        "similarity": -0.01855146062647073
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "church_governance.txt",
+        "similarity": -0.031162237710384406
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "justification.txt",
+        "similarity": -0.023901468309901044
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "glorification.txt",
+        "similarity": -0.02941844209150986
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "apologetics.txt",
+        "similarity": -0.014090850529178883
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.03194367382820537
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "evangelism.txt",
+        "similarity": 0.005162551268253848
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "anthropology.txt",
+        "similarity": -0.018811443405703242
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.02591341367443499
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "church_history.txt",
+        "similarity": -0.019094393286766726
+    },
+    {
+        "s_id": 1000640194045,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.017602557036104506
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "sanctification.txt",
+        "similarity": -0.00510873750943781
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "doxology.txt",
+        "similarity": -0.012163676438937992
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "sacraments.txt",
+        "similarity": -0.003331140870400151
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "church_discipline.txt",
+        "similarity": -0.009452513804396817
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "christology.txt",
+        "similarity": -0.006167322451270146
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "trinity.txt",
+        "similarity": -0.009647253042000323
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "discipleship.txt",
+        "similarity": -0.008831382092907908
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "christian_ethics.txt",
+        "similarity": 0.016811027992921255
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "gospel.txt",
+        "similarity": -2.1428181757147946e-05
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "eschatology.txt",
+        "similarity": -0.013606085682873005
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "scripture.txt",
+        "similarity": -0.012306122264382189
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "new_heaven_new_earth.txt",
+        "similarity": -0.01628763061708067
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "missiology.txt",
+        "similarity": -0.026566651477123823
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "church_governance.txt",
+        "similarity": -0.013650569780158769
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "justification.txt",
+        "similarity": 0.006057087846183433
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "glorification.txt",
+        "similarity": -0.008484078107565301
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "apologetics.txt",
+        "similarity": 0.027799568466562116
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "hamartiology.txt",
+        "similarity": -0.0015610039157270602
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "evangelism.txt",
+        "similarity": -0.004033596066000792
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "anthropology.txt",
+        "similarity": -0.012426941165134318
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "divine_attributes.txt",
+        "similarity": -0.007359520416709864
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "church_history.txt",
+        "similarity": -0.006417616510009135
+    },
+    {
+        "s_id": 1000617772066,
+        "t_id": "spiritual_disciplines.txt",
+        "similarity": -0.008676667204277469
+    }
+]

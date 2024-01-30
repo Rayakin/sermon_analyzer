@@ -1,21 +1,31 @@
 from cosine import cosine_similarity
+import os
 import json
+from supabase import create_client, Client
 
-transcripts_file = "transcripts_master.json"
+url: str = os.environ.get("SUPABASE_URL")
+key: str = os.environ.get("SUPABASE_KEY")
+supabase: Client = create_client(url, key)
+
+def initialize_supabase(url, key):
+    supabase: Client = create_client(url, key)
+    return supabase
+
 theology_topics_file = "theology_topics.json"
-
-
-with open(transcripts_file, 'r') as file:
-    transcripts = json.load(file)
 
 with open(theology_topics_file, 'r') as file:
     theology_topics = json.load(file)
 
+response = supabase.table('sermons').select("id", "embedding").eq("orgId", "identifier").eq("has_been_embedded", True).execute()
+
+transcripts = response.data
+
 def compare_sermons_to_topics(transcripts, theology_topics, output_filename):
     sermon_topic = []
     for sermon in transcripts:
+        print(sermon['id'])
         s_id = sermon['id']
-        s_embedding = sermon['embedding']
+        s_embedding = json.loads(sermon['embedding'])
         for topic in theology_topics:
             t_id = topic['id']
             t_embedding = topic['embedding']
@@ -40,6 +50,6 @@ def pivot_topics(comparisons):
     return sum_similarities
 
 
-comparisons = compare_sermons_to_topics(transcripts, theology_topics, "sermon_to_topic_comparison.json")
+comparisons = compare_sermons_to_topics(transcripts, theology_topics, "spbc.json")
 pivoted_data = pivot_topics(comparisons)
 print(pivoted_data)

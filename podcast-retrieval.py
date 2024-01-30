@@ -4,6 +4,7 @@ import re
 from datetime import datetime
 from supabase_connection import insert_sermon_metadata
 from supabase import create_client, Client
+from download_mp3 import download_mp3
 # from compress import compress_all_mp3_in_directory
 # from transcribe import get_all_transcripts_in_directory
 # from get_existing_trackIds import get_existing_trackIds
@@ -24,7 +25,8 @@ def extract_podcast_url(podcast_id, sermon_volume):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-sermons = extract_podcast_url('1244778987', sermon_volume)
+sermons = extract_podcast_url('322174254', sermon_volume)
+print(sermons)
 
 # def download_mp3(download_url, sermon_title, download_dir):
 #     if not os.path.exists(download_dir):
@@ -50,11 +52,11 @@ def process_sermon_metadata(sermons):
     for sermon in sermons:
         meta_data = {}
         sermon_release_date = datetime.fromisoformat(sermon['releaseDate'].rstrip('Z')).date()
-        # if str(sermon['trackId']) in retrieved_trackIds:
+        # if str(sermon['trackId']) in retrieved_trackIds:  
         #     print('Already got this one')
         #     continue
         if sermon['wrapperType'] != 'track' and sermon_release_date > datetime(2022, 12, 31).date():
-            match = re.search(r"Speaker:\s*([A-Za-z]+(?:\s[A-Za-z]+)*)", sermon['description'])
+            match = re.search(r"(speaker|preacher|teacher|pastor|Speaker|Preacher|Teacher|Pastor|):\s*([A-Za-z]+(?:\s[A-Za-z]+)*)", sermon['description'])
             if match:
                 speaker = match.group(1)
             else:
@@ -62,13 +64,16 @@ def process_sermon_metadata(sermons):
             meta_data['trackId'] = sermon['trackId']
             meta_data['trackName'] = sermon['trackName']
             meta_data['trackViewUrl'] = sermon['trackViewUrl']
-            meta_data['trackTimeMillis'] = sermon['trackTimeMillis']
+            # meta_data['trackTimeMillis'] = sermon['trackTimeMillis']
             meta_data['description'] = sermon['description']
             meta_data['releaseDate'] = sermon['releaseDate']
             meta_data['episodeUrl'] = sermon['episodeUrl']
-            meta_data['speaker'] = speaker 
+            if speaker:
+                meta_data['speaker'] = speaker
+            else: 
+                meta_data['speaker'] = "Null"
             sermons_meta_data.append(meta_data)
-            # download_mp3(meta_data['episodeUrl'], f"{meta_data['trackId']}--{meta_data['trackName']}", download_dir)
+            download_mp3(sermon)
     return sermons_meta_data
 
 sermons_metadata = process_sermon_metadata(sermons)

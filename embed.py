@@ -6,19 +6,39 @@ from itertools import islice
 import tiktoken
 from nltk.tokenize import sent_tokenize
 from openai import OpenAI
+from supabase import create_client, Client
+
 client = OpenAI()
 
-EMBEDDING_MODEL = 'text-embedding-ada-002'
+url: str = os.environ.get("SUPABASE_URL")
+key: str = os.environ.get("SUPABASE_KEY")
+supabase: Client = create_client(url, key)
+
+def initialize_supabase(url, key):
+    supabase: Client = create_client(url, key)
+    return supabase
+
+EMBEDDING_MODEL = 'text-embedding-3-small'
 EMBEDDING_CTX_LENGTH = 8191
 EMBEDDING_ENCODING = 'cl100k_base'
 
 transcripts = []
 
-for filename in os.listdir('theology'):
+def read_files_from_directory(directory):
+    sermon_transcript = ""
+    for filename in os.listdir(directory):
+        removed_txt = filename.replace(".txt", "")
+        name = removed_txt.replace("compressed_", "")
         if filename.endswith(".txt"):
-            with open(os.path.join('theology', filename), 'r') as file:
-                text = file.read()
-                transcripts.append({"text": text, "id": filename})
+            with open(os.path.join(directory, filename), 'r') as file:
+                sermon_transcript = file.read()
+                try:
+                    embedding = len_safe_get_embedding(sermon_transcript)
+                    data = supabase.table("sermons").update({"has_been_embedded": True}).eq("id", int(name)).execute()
+                    data = supabase.table("sermons").update({"has_been_transcribed": True}).eq("id", int(name)).execute()
+                    data = supabase.table("sermons").update({"embedding": embedding}).eq("id", int(name)).execute()
+                except Exception as e:
+                    print(f"There was an error: {e}")
 
 def split_with_overlap(sentences, overlap_percentage=0.1):
     split_index = len(sentences) // 2
@@ -53,7 +73,6 @@ def len_safe_get_embedding(text, average=True, max_tokens=EMBEDDING_CTX_LENGTH, 
             chunk_lens.append(len(chunk))
         except Exception as e:
             print(f"There was an error: ${e}")
-
     if average:
         chunk_embeddings = np.average(chunk_embeddings, axis=0, weights=chunk_lens)
         chunk_embeddings = chunk_embeddings / np.linalg.norm(chunk_embeddings)  # normalizes length to 1
@@ -74,5 +93,4 @@ def embed_all_transcripts(transcripts):
         json.dump(transcripts, file, indent=4)
     print(transcripts)
         
-        
-embed_all_transcripts(transcripts)
+read_files_from_directory('transcripts/SPBC')
