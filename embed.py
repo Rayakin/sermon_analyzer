@@ -34,8 +34,9 @@ def read_files_from_directory(directory):
                 sermon_transcript = file.read()
                 try:
                     embedding = len_safe_get_embedding(sermon_transcript)
-                    data = supabase.table("sermons").update({"has_been_embedded": True}).eq("id", int(name)).execute()
-                    data = supabase.table("sermons").update({"has_been_transcribed": True}).eq("id", int(name)).execute()
+                    print(f"{name}: {embedding}")
+                    # data = supabase.table("sermons").update({"has_been_embedded": True}).eq("id", int(name)).execute()
+                    # data = supabase.table("sermons").update({"has_been_transcribed": True}).eq("id", int(name)).execute()
                     data = supabase.table("sermons").update({"embedding": embedding}).eq("id", int(name)).execute()
                 except Exception as e:
                     print(f"There was an error: {e}")

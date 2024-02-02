@@ -1,15 +1,16 @@
 List of features that I need to extract per dataset(sermon):
--Speaker
--Title
--Sermon Length
--Old Testament Books Referenced
--New Testament Books Referenced
--Biblical Characters Referenced
--Dicussions of specific theological topics (derived from a list of topics)
--Discussions of specific social issues (derived from a list of topics)
--Pop cultural references
--Type of Discourse
--What sermon applications have you given to your congregation?
+-Speaker [x]
+-Title [x]
+-Sermon Length [x]
+-Old Testament Books Referenced [NEEDS_REVIEW]
+-New Testament Books Referenced [NEEDS_REVIEW]
+-Biblical Characters Referenced[NEEDS_REVIEW]
+-Dicussions of specific theological topics (derived from a list of topics) [x]
+-Discussions of specific social issues (derived from a list of topics) [x]
+-Illustrations [NEEDS_REVIEW]
+-Main Points [NEEDS_REVIEW]
+-Applications [NEEDS_REVIEW]
+-Similarity Across Sermons
 
 List of Theological Topics:
 -Doctrine of Scripture
