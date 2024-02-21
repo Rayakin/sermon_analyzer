@@ -1,0 +1,7967 @@
+[
+    {
+        "s_id": 1000642403508,
+        "t_id": "glorification",
+        "similarity": 0.4579625806244769
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "missiology",
+        "similarity": 0.3039979572380759
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "scripture",
+        "similarity": 0.41510389260309205
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "eschatology",
+        "similarity": 0.5019315147974969
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "gospel",
+        "similarity": 0.4578019039432025
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "discipleship",
+        "similarity": 0.38363818132429434
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "christology",
+        "similarity": 0.4141436614913599
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "sacraments",
+        "similarity": 0.38671935378477446
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "baptism",
+        "similarity": 0.40523354076609985
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "doxology",
+        "similarity": 0.44257016662301546
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "sanctification",
+        "similarity": 0.4180160016262206
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "church history",
+        "similarity": 0.3593862789771606
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3561349985473734
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "divine attributes",
+        "similarity": 0.4018188954274443
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "lords supper",
+        "similarity": 0.4440967785896799
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.532898318249805
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "christian ethics",
+        "similarity": 0.3545227683980812
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "trinity",
+        "similarity": 0.4268192619447316
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "union in christ",
+        "similarity": 0.41716477150129083
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "church discipline",
+        "similarity": 0.36715413641161493
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "anthropology",
+        "similarity": 0.41523689516782536
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "evangelism",
+        "similarity": 0.40377645251422556
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "hamartiology",
+        "similarity": 0.38843145821629826
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "regeneration",
+        "similarity": 0.41399902715541975
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "apologetics",
+        "similarity": 0.4579625806244769
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "justification",
+        "similarity": 0.3861075675749116
+    },
+    {
+        "s_id": 1000642403508,
+        "t_id": "church governance",
+        "similarity": 0.2879667912093897
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "glorification",
+        "similarity": 0.4749142526191524
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "missiology",
+        "similarity": 0.3143898080354245
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "scripture",
+        "similarity": 0.42872523464710466
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "eschatology",
+        "similarity": 0.5032700878078289
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "gospel",
+        "similarity": 0.45251044378155647
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "discipleship",
+        "similarity": 0.3904492244374508
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "christology",
+        "similarity": 0.39456596974817726
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "sacraments",
+        "similarity": 0.40837375204080406
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "baptism",
+        "similarity": 0.4104331043634351
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "doxology",
+        "similarity": 0.45742330037242795
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "sanctification",
+        "similarity": 0.44053348614516674
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "church history",
+        "similarity": 0.3709595718140696
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3787585371379725
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "divine attributes",
+        "similarity": 0.41126801741841384
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "lords supper",
+        "similarity": 0.4577400577072075
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5532924495712577
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "christian ethics",
+        "similarity": 0.3476367021875101
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "trinity",
+        "similarity": 0.44239603289184115
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "union in christ",
+        "similarity": 0.4383250139637114
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "church discipline",
+        "similarity": 0.36621990888748224
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "anthropology",
+        "similarity": 0.409842913550419
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "evangelism",
+        "similarity": 0.37602929524039874
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "hamartiology",
+        "similarity": 0.3829299257893365
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "regeneration",
+        "similarity": 0.4025279869855351
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "apologetics",
+        "similarity": 0.4749142526191524
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "justification",
+        "similarity": 0.40776260006802545
+    },
+    {
+        "s_id": 1000640839944,
+        "t_id": "church governance",
+        "similarity": 0.2867977865605576
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "glorification",
+        "similarity": 0.4697514600394975
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "missiology",
+        "similarity": 0.3405866773214188
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "scripture",
+        "similarity": 0.4063914594748015
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "eschatology",
+        "similarity": 0.5078320989333602
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "gospel",
+        "similarity": 0.5347956332217955
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "discipleship",
+        "similarity": 0.3742723905775872
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "christology",
+        "similarity": 0.3826696724607455
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "sacraments",
+        "similarity": 0.3733472265169955
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "baptism",
+        "similarity": 0.40591806664249264
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "doxology",
+        "similarity": 0.4495868245737429
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "sanctification",
+        "similarity": 0.4337225365166494
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "church history",
+        "similarity": 0.3787974215341756
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.35695452303526815
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "divine attributes",
+        "similarity": 0.3659074437586003
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "lords supper",
+        "similarity": 0.40892348627929087
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5684024725823571
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "christian ethics",
+        "similarity": 0.36170953659571226
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "trinity",
+        "similarity": 0.4032103531807062
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "union in christ",
+        "similarity": 0.40039873079576527
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "church discipline",
+        "similarity": 0.36417260920426586
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "anthropology",
+        "similarity": 0.4277763350252781
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "evangelism",
+        "similarity": 0.49463154059184444
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "hamartiology",
+        "similarity": 0.4260542215807374
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "regeneration",
+        "similarity": 0.44824789092705386
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "apologetics",
+        "similarity": 0.4697514600394975
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "justification",
+        "similarity": 0.4069674214653174
+    },
+    {
+        "s_id": 1000641651309,
+        "t_id": "church governance",
+        "similarity": 0.2860249262968684
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "glorification",
+        "similarity": 0.40025120900153655
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "missiology",
+        "similarity": 0.27289726347474536
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "scripture",
+        "similarity": 0.35893430912394336
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "eschatology",
+        "similarity": 0.374670142866833
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "gospel",
+        "similarity": 0.46154641743134756
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "discipleship",
+        "similarity": 0.36071404152257075
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "christology",
+        "similarity": 0.4414689181620286
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "sacraments",
+        "similarity": 0.3978997670788946
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "baptism",
+        "similarity": 0.3866794753948011
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "doxology",
+        "similarity": 0.40998981513486826
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "sanctification",
+        "similarity": 0.3662436873550454
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "church history",
+        "similarity": 0.32135397326588433
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3231504695122859
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "divine attributes",
+        "similarity": 0.3180921996478404
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "lords supper",
+        "similarity": 0.4626633248317291
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.3804029943558772
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "christian ethics",
+        "similarity": 0.31113442864459734
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "trinity",
+        "similarity": 0.3943909855107193
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "union in christ",
+        "similarity": 0.43199889256574214
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "church discipline",
+        "similarity": 0.3408844942632908
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "anthropology",
+        "similarity": 0.3632785718776571
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "evangelism",
+        "similarity": 0.34709325127584983
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "hamartiology",
+        "similarity": 0.417983708007168
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "regeneration",
+        "similarity": 0.35841316891284447
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "apologetics",
+        "similarity": 0.40025120900153655
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "justification",
+        "similarity": 0.40635011328798787
+    },
+    {
+        "s_id": 1000636586917,
+        "t_id": "church governance",
+        "similarity": 0.25513977850058395
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "glorification",
+        "similarity": 0.5183553531673575
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "missiology",
+        "similarity": 0.31484155697733734
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "scripture",
+        "similarity": 0.4108358754471306
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "eschatology",
+        "similarity": 0.4720575718003689
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "gospel",
+        "similarity": 0.4756768229199345
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "discipleship",
+        "similarity": 0.3989837714536863
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "christology",
+        "similarity": 0.41183708007381215
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "sacraments",
+        "similarity": 0.3709169182962023
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "baptism",
+        "similarity": 0.3876774673571747
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "doxology",
+        "similarity": 0.46591537741073613
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "sanctification",
+        "similarity": 0.4367773780187021
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "church history",
+        "similarity": 0.38837179034233765
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.36640086131697486
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "divine attributes",
+        "similarity": 0.37479324462422814
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "lords supper",
+        "similarity": 0.4451075377982656
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5425064283965202
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "christian ethics",
+        "similarity": 0.36611768610383516
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "trinity",
+        "similarity": 0.43469764330434
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "union in christ",
+        "similarity": 0.479470453091126
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "church discipline",
+        "similarity": 0.32738218247004824
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "anthropology",
+        "similarity": 0.42504132836015845
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "evangelism",
+        "similarity": 0.41224500785252305
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "hamartiology",
+        "similarity": 0.4199311509506475
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "regeneration",
+        "similarity": 0.45940413841579014
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "apologetics",
+        "similarity": 0.5183553531673575
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "justification",
+        "similarity": 0.3938939271853698
+    },
+    {
+        "s_id": 1000630611530,
+        "t_id": "church governance",
+        "similarity": 0.26931580047326475
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "glorification",
+        "similarity": 0.405342228998288
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "missiology",
+        "similarity": 0.36561914363079606
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "scripture",
+        "similarity": 0.40771623057197837
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "eschatology",
+        "similarity": 0.4706582909354896
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "gospel",
+        "similarity": 0.4562288808046874
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "discipleship",
+        "similarity": 0.41303933482533106
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "christology",
+        "similarity": 0.38333455412261963
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "sacraments",
+        "similarity": 0.3684966102684958
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "baptism",
+        "similarity": 0.3733954543952843
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "doxology",
+        "similarity": 0.44253699264434376
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "sanctification",
+        "similarity": 0.4004592761517831
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "church history",
+        "similarity": 0.37136513539919447
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.40619534948684294
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "divine attributes",
+        "similarity": 0.3975230920172889
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "lords supper",
+        "similarity": 0.4498726382325047
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4838983891951615
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "christian ethics",
+        "similarity": 0.3697994428335647
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "trinity",
+        "similarity": 0.42985796076057226
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "union in christ",
+        "similarity": 0.42391792582806975
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "church discipline",
+        "similarity": 0.35411233714935
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "anthropology",
+        "similarity": 0.45606438612922495
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "evangelism",
+        "similarity": 0.3942719558614176
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "hamartiology",
+        "similarity": 0.42111483408597455
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "regeneration",
+        "similarity": 0.3997991129035847
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "apologetics",
+        "similarity": 0.405342228998288
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "justification",
+        "similarity": 0.36764876600125485
+    },
+    {
+        "s_id": 1000629015665,
+        "t_id": "church governance",
+        "similarity": 0.24233013253773034
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "glorification",
+        "similarity": 0.4579040725662759
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "missiology",
+        "similarity": 0.3911330066949207
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "scripture",
+        "similarity": 0.4691586024936373
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "eschatology",
+        "similarity": 0.48832197741358346
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "gospel",
+        "similarity": 0.5176820465823591
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "discipleship",
+        "similarity": 0.4791704277921599
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "christology",
+        "similarity": 0.4829930978713887
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "sacraments",
+        "similarity": 0.42586734728815845
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "baptism",
+        "similarity": 0.4322575741837676
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "doxology",
+        "similarity": 0.4875218450053083
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "sanctification",
+        "similarity": 0.472658385271567
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "church history",
+        "similarity": 0.43436301832460555
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.4593331501489939
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "divine attributes",
+        "similarity": 0.4087384880902466
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "lords supper",
+        "similarity": 0.4869242482278057
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5113385055067059
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "christian ethics",
+        "similarity": 0.4442595994790594
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "trinity",
+        "similarity": 0.45736700190324314
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "union in christ",
+        "similarity": 0.4838886833400049
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "church discipline",
+        "similarity": 0.5054432181824643
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "anthropology",
+        "similarity": 0.44043994101477535
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "evangelism",
+        "similarity": 0.4716068218226629
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "hamartiology",
+        "similarity": 0.458109028096614
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "regeneration",
+        "similarity": 0.4800402573519732
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "apologetics",
+        "similarity": 0.4579040725662759
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "justification",
+        "similarity": 0.4354759848583941
+    },
+    {
+        "s_id": 1000634569082,
+        "t_id": "church governance",
+        "similarity": 0.3804539648947438
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "glorification",
+        "similarity": 0.42955173747644193
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "missiology",
+        "similarity": 0.2890005466826513
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "scripture",
+        "similarity": 0.36756404895410055
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "eschatology",
+        "similarity": 0.4718052249276403
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "gospel",
+        "similarity": 0.3869059752056703
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "discipleship",
+        "similarity": 0.32905102495881183
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "christology",
+        "similarity": 0.3388512444538601
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "sacraments",
+        "similarity": 0.3309867267586615
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "baptism",
+        "similarity": 0.3147287023098536
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "doxology",
+        "similarity": 0.41906490356609793
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "sanctification",
+        "similarity": 0.3750279808982483
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "church history",
+        "similarity": 0.325630727325954
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.34384690001343243
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "divine attributes",
+        "similarity": 0.36728836981671764
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "lords supper",
+        "similarity": 0.4309837244785918
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.49342341179460225
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "christian ethics",
+        "similarity": 0.3189520397598401
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "trinity",
+        "similarity": 0.35708188852609957
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "union in christ",
+        "similarity": 0.34960096982519084
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "church discipline",
+        "similarity": 0.3518384275691605
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "anthropology",
+        "similarity": 0.3512490204613741
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "evangelism",
+        "similarity": 0.3435717974726621
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "hamartiology",
+        "similarity": 0.3588995810529293
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "regeneration",
+        "similarity": 0.32960002252076553
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "apologetics",
+        "similarity": 0.42955173747644193
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "justification",
+        "similarity": 0.3896967087233925
+    },
+    {
+        "s_id": 1000629822442,
+        "t_id": "church governance",
+        "similarity": 0.25558003771655935
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "glorification",
+        "similarity": 0.4741309649886717
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "missiology",
+        "similarity": 0.3344313891054126
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "scripture",
+        "similarity": 0.42868594899398627
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "eschatology",
+        "similarity": 0.4486432556478241
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "gospel",
+        "similarity": 0.4954441534949946
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "discipleship",
+        "similarity": 0.4279628711888752
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "christology",
+        "similarity": 0.5057932541215611
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "sacraments",
+        "similarity": 0.41012597359189207
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "baptism",
+        "similarity": 0.4258116883955938
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "doxology",
+        "similarity": 0.47764158868550044
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "sanctification",
+        "similarity": 0.41924387649149536
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "church history",
+        "similarity": 0.4135250642599395
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.39489990397417474
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "divine attributes",
+        "similarity": 0.41136145893425513
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "lords supper",
+        "similarity": 0.4953232569290379
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4815225300745933
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "christian ethics",
+        "similarity": 0.3626046978274584
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "trinity",
+        "similarity": 0.4954406692316129
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "union in christ",
+        "similarity": 0.521522586266754
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "church discipline",
+        "similarity": 0.34692699009609107
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "anthropology",
+        "similarity": 0.423018590972258
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "evangelism",
+        "similarity": 0.43964871710382275
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "hamartiology",
+        "similarity": 0.36192117868178253
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "regeneration",
+        "similarity": 0.4401502747331405
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "apologetics",
+        "similarity": 0.4741309649886717
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "justification",
+        "similarity": 0.38176547483681705
+    },
+    {
+        "s_id": 1000632222922,
+        "t_id": "church governance",
+        "similarity": 0.30071831183365083
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "glorification",
+        "similarity": 0.4224684678367664
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "missiology",
+        "similarity": 0.3110772352523301
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "scripture",
+        "similarity": 0.43711776194938656
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "eschatology",
+        "similarity": 0.43563235627466546
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "gospel",
+        "similarity": 0.5029987264020194
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "discipleship",
+        "similarity": 0.43163589145962566
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "christology",
+        "similarity": 0.4791739652625514
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "sacraments",
+        "similarity": 0.42171926505880497
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "baptism",
+        "similarity": 0.424824458515609
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "doxology",
+        "similarity": 0.44691360433032296
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "sanctification",
+        "similarity": 0.4193647213734759
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "church history",
+        "similarity": 0.3939305158335683
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.42513260326446456
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "divine attributes",
+        "similarity": 0.3750326098335677
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "lords supper",
+        "similarity": 0.5184869541862676
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4469088573690464
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "christian ethics",
+        "similarity": 0.36642911513322424
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "trinity",
+        "similarity": 0.4593912393063103
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "union in christ",
+        "similarity": 0.4851973095311861
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "church discipline",
+        "similarity": 0.3755041257618167
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "anthropology",
+        "similarity": 0.4387167459066371
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "evangelism",
+        "similarity": 0.4132422423723072
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "hamartiology",
+        "similarity": 0.4465602294155824
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "regeneration",
+        "similarity": 0.4283512559464583
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "apologetics",
+        "similarity": 0.4224684678367664
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "justification",
+        "similarity": 0.4233524599687154
+    },
+    {
+        "s_id": 1000635354697,
+        "t_id": "church governance",
+        "similarity": 0.2812006709562225
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "glorification",
+        "similarity": 0.41956493860189714
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "missiology",
+        "similarity": 0.2857671040348754
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "scripture",
+        "similarity": 0.41668595569712646
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "eschatology",
+        "similarity": 0.40853521823226835
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "gospel",
+        "similarity": 0.47853626738655697
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "discipleship",
+        "similarity": 0.41223472134788713
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "christology",
+        "similarity": 0.43416886698975815
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "sacraments",
+        "similarity": 0.48635311791472935
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "baptism",
+        "similarity": 0.4455786023608358
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "doxology",
+        "similarity": 0.4492888689246689
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "sanctification",
+        "similarity": 0.40363204834985605
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "church history",
+        "similarity": 0.34762879244919
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3750112760870631
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "divine attributes",
+        "similarity": 0.32023909332144157
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "lords supper",
+        "similarity": 0.5861313210383652
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.44632613359580287
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "christian ethics",
+        "similarity": 0.3279374654915824
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "trinity",
+        "similarity": 0.41932632092048655
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "union in christ",
+        "similarity": 0.46991916849471393
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "church discipline",
+        "similarity": 0.38554658183772483
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "anthropology",
+        "similarity": 0.3866951761972183
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "evangelism",
+        "similarity": 0.3659328570924686
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "hamartiology",
+        "similarity": 0.42102884524428585
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "regeneration",
+        "similarity": 0.40774357240469894
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "apologetics",
+        "similarity": 0.41956493860189714
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "justification",
+        "similarity": 0.4335493461606217
+    },
+    {
+        "s_id": 1000633037043,
+        "t_id": "church governance",
+        "similarity": 0.31758584846715143
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "glorification",
+        "similarity": 0.4650546164463454
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "missiology",
+        "similarity": 0.3389152023265116
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "scripture",
+        "similarity": 0.5451039022297279
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "eschatology",
+        "similarity": 0.45797996470537333
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "gospel",
+        "similarity": 0.5212275640208877
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "discipleship",
+        "similarity": 0.40500762270780766
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "christology",
+        "similarity": 0.4551188027833514
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "sacraments",
+        "similarity": 0.3921843896998648
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "baptism",
+        "similarity": 0.4025481034031009
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "doxology",
+        "similarity": 0.5189399260439277
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "sanctification",
+        "similarity": 0.4760003634846249
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "church history",
+        "similarity": 0.38097520046956446
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.43779042808458063
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "divine attributes",
+        "similarity": 0.4651026008766654
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "lords supper",
+        "similarity": 0.452293281734835
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4836716203446572
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "christian ethics",
+        "similarity": 0.3760212316323067
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "trinity",
+        "similarity": 0.4899603069369953
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "union in christ",
+        "similarity": 0.4615336722137318
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "church discipline",
+        "similarity": 0.3753672250855114
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "anthropology",
+        "similarity": 0.4744850665662636
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "evangelism",
+        "similarity": 0.4330221745065533
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "hamartiology",
+        "similarity": 0.49247633686717396
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "regeneration",
+        "similarity": 0.45298842055003247
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "apologetics",
+        "similarity": 0.4650546164463454
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "justification",
+        "similarity": 0.48042831985677226
+    },
+    {
+        "s_id": 1000633783242,
+        "t_id": "church governance",
+        "similarity": 0.329973886919498
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "glorification",
+        "similarity": 0.5356153188426969
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "missiology",
+        "similarity": 0.3280260446146399
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "scripture",
+        "similarity": 0.4740423066549591
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "eschatology",
+        "similarity": 0.4874177888312503
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "gospel",
+        "similarity": 0.500170595046373
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "discipleship",
+        "similarity": 0.4087028562094991
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "christology",
+        "similarity": 0.4876622612277498
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "sacraments",
+        "similarity": 0.42109225034443476
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "baptism",
+        "similarity": 0.41936455125093536
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "doxology",
+        "similarity": 0.5761392518519767
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "sanctification",
+        "similarity": 0.47093754081078815
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "church history",
+        "similarity": 0.4109254732442603
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.40616615802041967
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "divine attributes",
+        "similarity": 0.5173837021882832
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "lords supper",
+        "similarity": 0.504622934717772
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5591522670118327
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "christian ethics",
+        "similarity": 0.37307742012320444
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "trinity",
+        "similarity": 0.527891988921325
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "union in christ",
+        "similarity": 0.4817585618577544
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "church discipline",
+        "similarity": 0.365545178171719
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "anthropology",
+        "similarity": 0.47311032329617336
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "evangelism",
+        "similarity": 0.3976026968530917
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "hamartiology",
+        "similarity": 0.4212743569083064
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "regeneration",
+        "similarity": 0.45025111336666507
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "apologetics",
+        "similarity": 0.5356153188426969
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "justification",
+        "similarity": 0.43885203377097526
+    },
+    {
+        "s_id": 1000637376277,
+        "t_id": "church governance",
+        "similarity": 0.3371004086387267
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "glorification",
+        "similarity": 0.4432382663463285
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "missiology",
+        "similarity": 0.33960067513821
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "scripture",
+        "similarity": 0.386598748478625
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "eschatology",
+        "similarity": 0.4256700687644228
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "gospel",
+        "similarity": 0.4655265547119657
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "discipleship",
+        "similarity": 0.38218863121248126
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "christology",
+        "similarity": 0.3572475627768152
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "sacraments",
+        "similarity": 0.3847699657579328
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "baptism",
+        "similarity": 0.36084836485841865
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "doxology",
+        "similarity": 0.4494416829036104
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "sanctification",
+        "similarity": 0.41027955623742984
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "church history",
+        "similarity": 0.33959892862539154
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.37436384856761123
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "divine attributes",
+        "similarity": 0.3573796881571998
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "lords supper",
+        "similarity": 0.4709611329768841
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4690167944742923
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "christian ethics",
+        "similarity": 0.3449237317943763
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "trinity",
+        "similarity": 0.3924380985231264
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "union in christ",
+        "similarity": 0.41782205406105943
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "church discipline",
+        "similarity": 0.33501176167052327
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "anthropology",
+        "similarity": 0.4198834344312504
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "evangelism",
+        "similarity": 0.37357094287525794
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "hamartiology",
+        "similarity": 0.35850320892620174
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "regeneration",
+        "similarity": 0.40658382455747055
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "apologetics",
+        "similarity": 0.4432382663463285
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "justification",
+        "similarity": 0.37850725439088956
+    },
+    {
+        "s_id": 1000638181860,
+        "t_id": "church governance",
+        "similarity": 0.25083596777299705
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "glorification",
+        "similarity": 0.4236226780377369
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "missiology",
+        "similarity": 0.34877517762786625
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "scripture",
+        "similarity": 0.42703169806717395
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "eschatology",
+        "similarity": 0.4566688692803227
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "gospel",
+        "similarity": 0.4982056491220874
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "discipleship",
+        "similarity": 0.42632955236613007
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "christology",
+        "similarity": 0.5054774964282498
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "sacraments",
+        "similarity": 0.4426646565021271
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "baptism",
+        "similarity": 0.40792108990056414
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "doxology",
+        "similarity": 0.46753341062755216
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "sanctification",
+        "similarity": 0.3828431644808109
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "church history",
+        "similarity": 0.385558036153849
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.36115175981172565
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "divine attributes",
+        "similarity": 0.3418070079082751
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "lords supper",
+        "similarity": 0.5158185813223135
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.46089733461132215
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "christian ethics",
+        "similarity": 0.3392324141560613
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "trinity",
+        "similarity": 0.4702453172520338
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "union in christ",
+        "similarity": 0.46608203439236723
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "church discipline",
+        "similarity": 0.31448026468124296
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "anthropology",
+        "similarity": 0.3967109830946062
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "evangelism",
+        "similarity": 0.42732304896930895
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "hamartiology",
+        "similarity": 0.3597993046795518
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "regeneration",
+        "similarity": 0.4063823685657606
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "apologetics",
+        "similarity": 0.4236226780377369
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "justification",
+        "similarity": 0.37880170136516733
+    },
+    {
+        "s_id": 1000639617012,
+        "t_id": "church governance",
+        "similarity": 0.2837850976359959
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "glorification",
+        "similarity": 0.42057191489986123
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "missiology",
+        "similarity": 0.33283256457360816
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "scripture",
+        "similarity": 0.42105297556143906
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "eschatology",
+        "similarity": 0.4406442186461335
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "gospel",
+        "similarity": 0.4388331570426902
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "discipleship",
+        "similarity": 0.41386521709685414
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "christology",
+        "similarity": 0.38020273284149997
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "sacraments",
+        "similarity": 0.39897039974452714
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "baptism",
+        "similarity": 0.4002100795010254
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "doxology",
+        "similarity": 0.4539725909800788
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "sanctification",
+        "similarity": 0.4405348589212055
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "church history",
+        "similarity": 0.3678502523837427
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3929756260762605
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "divine attributes",
+        "similarity": 0.40484350255104634
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "lords supper",
+        "similarity": 0.4470446615355399
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4658121874326002
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "christian ethics",
+        "similarity": 0.3930581537438598
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "trinity",
+        "similarity": 0.4284841845289735
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "union in christ",
+        "similarity": 0.44006438442003787
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "church discipline",
+        "similarity": 0.4132423376966958
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "anthropology",
+        "similarity": 0.4332698045951113
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "evangelism",
+        "similarity": 0.3752991382387086
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "hamartiology",
+        "similarity": 0.4457315379915353
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "regeneration",
+        "similarity": 0.3718997735657532
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "apologetics",
+        "similarity": 0.42057191489986123
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "justification",
+        "similarity": 0.3889625680977582
+    },
+    {
+        "s_id": 1000620424153,
+        "t_id": "church governance",
+        "similarity": 0.27996886257411885
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "glorification",
+        "similarity": 0.43508485643055794
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "missiology",
+        "similarity": 0.38048820582629417
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "scripture",
+        "similarity": 0.40304431247529493
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "eschatology",
+        "similarity": 0.402486954990037
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "gospel",
+        "similarity": 0.46596991750710287
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "discipleship",
+        "similarity": 0.4783875822001284
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "christology",
+        "similarity": 0.41810581089419824
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "sacraments",
+        "similarity": 0.4382949805992657
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "baptism",
+        "similarity": 0.40114555531928314
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "doxology",
+        "similarity": 0.48103527750386504
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "sanctification",
+        "similarity": 0.4062206347561009
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "church history",
+        "similarity": 0.4246179917736823
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.4464280539878305
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "divine attributes",
+        "similarity": 0.38337892165025095
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "lords supper",
+        "similarity": 0.5512766282992152
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.44210065539288373
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "christian ethics",
+        "similarity": 0.3976355659983164
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "trinity",
+        "similarity": 0.45103068189548035
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "union in christ",
+        "similarity": 0.44345813718334204
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "church discipline",
+        "similarity": 0.3808664221110196
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "anthropology",
+        "similarity": 0.4134803101208408
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "evangelism",
+        "similarity": 0.439410888915349
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "hamartiology",
+        "similarity": 0.35860479749273955
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "regeneration",
+        "similarity": 0.4103745294977328
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "apologetics",
+        "similarity": 0.43508485643055794
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "justification",
+        "similarity": 0.3737484640162879
+    },
+    {
+        "s_id": 1000626619259,
+        "t_id": "church governance",
+        "similarity": 0.3225807672901053
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "glorification",
+        "similarity": 0.39546471745271905
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "missiology",
+        "similarity": 0.32295130966057384
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "scripture",
+        "similarity": 0.4339209794901002
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "eschatology",
+        "similarity": 0.44628813955816193
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "gospel",
+        "similarity": 0.46671088336351535
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "discipleship",
+        "similarity": 0.424840552199816
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "christology",
+        "similarity": 0.522560626185785
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "sacraments",
+        "similarity": 0.40871633491810777
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "baptism",
+        "similarity": 0.4082880907568382
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "doxology",
+        "similarity": 0.456333796991651
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "sanctification",
+        "similarity": 0.3822889351315535
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "church history",
+        "similarity": 0.3657390779885695
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.348204686376044
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "divine attributes",
+        "similarity": 0.38403160648545853
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "lords supper",
+        "similarity": 0.4658905975384853
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4383447307942637
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "christian ethics",
+        "similarity": 0.35457510584541396
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "trinity",
+        "similarity": 0.4621942528136799
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "union in christ",
+        "similarity": 0.46716110523192367
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "church discipline",
+        "similarity": 0.328587306762988
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "anthropology",
+        "similarity": 0.40822730180354877
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "evangelism",
+        "similarity": 0.38536481763069674
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "hamartiology",
+        "similarity": 0.3940108296683678
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "regeneration",
+        "similarity": 0.3979469126861127
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "apologetics",
+        "similarity": 0.39546471745271905
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "justification",
+        "similarity": 0.3974155456712388
+    },
+    {
+        "s_id": 1000625882046,
+        "t_id": "church governance",
+        "similarity": 0.303484421622186
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "glorification",
+        "similarity": 0.44031327241610535
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "missiology",
+        "similarity": 0.313043877328615
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "scripture",
+        "similarity": 0.3808960231396007
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "eschatology",
+        "similarity": 0.47136789596708795
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "gospel",
+        "similarity": 0.4339833412414419
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "discipleship",
+        "similarity": 0.3806113156269021
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "christology",
+        "similarity": 0.360459304668984
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "sacraments",
+        "similarity": 0.3701542704006736
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "baptism",
+        "similarity": 0.3784099704914813
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "doxology",
+        "similarity": 0.44839381632863295
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "sanctification",
+        "similarity": 0.41115329309172566
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "church history",
+        "similarity": 0.339408591750456
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.36871305896999507
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "divine attributes",
+        "similarity": 0.4085419252523103
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "lords supper",
+        "similarity": 0.4358614981113432
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4992467790527101
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "christian ethics",
+        "similarity": 0.3454827504685667
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "trinity",
+        "similarity": 0.4008956346902242
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "union in christ",
+        "similarity": 0.3510285360818971
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "church discipline",
+        "similarity": 0.3737268739240255
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "anthropology",
+        "similarity": 0.3976401197024127
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "evangelism",
+        "similarity": 0.38609717628275675
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "hamartiology",
+        "similarity": 0.38190418184658614
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "regeneration",
+        "similarity": 0.3738167065663237
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "apologetics",
+        "similarity": 0.44031327241610535
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "justification",
+        "similarity": 0.3946397463279966
+    },
+    {
+        "s_id": 1000622087529,
+        "t_id": "church governance",
+        "similarity": 0.26282286510864206
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "glorification",
+        "similarity": 0.4753138555672973
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "missiology",
+        "similarity": 0.3184292185656709
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "scripture",
+        "similarity": 0.40320745556436693
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "eschatology",
+        "similarity": 0.46599290341475685
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "gospel",
+        "similarity": 0.4486808144547825
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "discipleship",
+        "similarity": 0.37686581884396275
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "christology",
+        "similarity": 0.3933960370646251
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "sacraments",
+        "similarity": 0.3668760018770096
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "baptism",
+        "similarity": 0.3636230147808962
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "doxology",
+        "similarity": 0.4638075784658945
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "sanctification",
+        "similarity": 0.4191288832536363
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "church history",
+        "similarity": 0.36500027982595884
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.39193784975698565
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "divine attributes",
+        "similarity": 0.3960106732918425
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "lords supper",
+        "similarity": 0.4494910589186919
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5113045686321736
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "christian ethics",
+        "similarity": 0.3436282969729174
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "trinity",
+        "similarity": 0.4131097285321787
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "union in christ",
+        "similarity": 0.443812272656099
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "church discipline",
+        "similarity": 0.3299402159790205
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "anthropology",
+        "similarity": 0.38919888548381065
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "evangelism",
+        "similarity": 0.3842657234117265
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "hamartiology",
+        "similarity": 0.3479016002276133
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "regeneration",
+        "similarity": 0.3953672164967309
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "apologetics",
+        "similarity": 0.4753138555672973
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "justification",
+        "similarity": 0.4210198282453966
+    },
+    {
+        "s_id": 1000624339562,
+        "t_id": "church governance",
+        "similarity": 0.2675471087118453
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "glorification",
+        "similarity": 0.4733614726116301
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "missiology",
+        "similarity": 0.3802329948275126
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "scripture",
+        "similarity": 0.448603127122855
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "eschatology",
+        "similarity": 0.4378863406718555
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "gospel",
+        "similarity": 0.5259522036985106
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "discipleship",
+        "similarity": 0.4264506308223529
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "christology",
+        "similarity": 0.466906119930635
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "sacraments",
+        "similarity": 0.36221190716856005
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "baptism",
+        "similarity": 0.39611089591656745
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "doxology",
+        "similarity": 0.5317282325801272
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "sanctification",
+        "similarity": 0.44008158787399676
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "church history",
+        "similarity": 0.3822805945243275
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.39247166120921745
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "divine attributes",
+        "similarity": 0.450861502288767
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "lords supper",
+        "similarity": 0.4737731670376253
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.48420686486271863
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "christian ethics",
+        "similarity": 0.3854430770455727
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "trinity",
+        "similarity": 0.5007678012926765
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "union in christ",
+        "similarity": 0.48780633293718617
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "church discipline",
+        "similarity": 0.3685661731004763
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "anthropology",
+        "similarity": 0.4549428407102374
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "evangelism",
+        "similarity": 0.45297385381364463
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "hamartiology",
+        "similarity": 0.4403268910831789
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "regeneration",
+        "similarity": 0.4401447231962472
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "apologetics",
+        "similarity": 0.4733614726116301
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "justification",
+        "similarity": 0.40695120556750697
+    },
+    {
+        "s_id": 1000616571556,
+        "t_id": "church governance",
+        "similarity": 0.29528128822317196
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "glorification",
+        "similarity": 0.45210382699106644
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "missiology",
+        "similarity": 0.34592301182296803
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "scripture",
+        "similarity": 0.4175532670433246
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "eschatology",
+        "similarity": 0.4521692710821551
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "gospel",
+        "similarity": 0.4716716535030392
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "discipleship",
+        "similarity": 0.3854929997097454
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "christology",
+        "similarity": 0.3790605994354131
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "sacraments",
+        "similarity": 0.3899923177470844
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "baptism",
+        "similarity": 0.38225954264280687
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "doxology",
+        "similarity": 0.48172274585133756
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "sanctification",
+        "similarity": 0.41900502541930795
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "church history",
+        "similarity": 0.35468289768617245
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3608985219686091
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "divine attributes",
+        "similarity": 0.44345082821160875
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "lords supper",
+        "similarity": 0.465149346976917
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.49842287377246686
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "christian ethics",
+        "similarity": 0.37117736728986017
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "trinity",
+        "similarity": 0.4399688536614034
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "union in christ",
+        "similarity": 0.3923981412955523
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "church discipline",
+        "similarity": 0.387046522131617
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "anthropology",
+        "similarity": 0.4070014037211195
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "evangelism",
+        "similarity": 0.3951503634428592
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "hamartiology",
+        "similarity": 0.4058558294355494
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "regeneration",
+        "similarity": 0.39530434959523547
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "apologetics",
+        "similarity": 0.45210382699106644
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "justification",
+        "similarity": 0.44029090111774194
+    },
+    {
+        "s_id": 1000621310617,
+        "t_id": "church governance",
+        "similarity": 0.2789215821901039
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "glorification",
+        "similarity": 0.4963820969556863
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "missiology",
+        "similarity": 0.36433280291597736
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "scripture",
+        "similarity": 0.4638133776556388
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "eschatology",
+        "similarity": 0.49551505220698566
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "gospel",
+        "similarity": 0.5053446084512955
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "discipleship",
+        "similarity": 0.4290763011680063
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "christology",
+        "similarity": 0.43807842410653947
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "sacraments",
+        "similarity": 0.3990364469923521
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "baptism",
+        "similarity": 0.42833665742920285
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "doxology",
+        "similarity": 0.4966343463455361
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "sanctification",
+        "similarity": 0.49043687844127504
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "church history",
+        "similarity": 0.41609634210827295
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.437648118377444
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "divine attributes",
+        "similarity": 0.42580656164073216
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "lords supper",
+        "similarity": 0.47575749420519886
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5423547875849727
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "christian ethics",
+        "similarity": 0.3876333978282518
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "trinity",
+        "similarity": 0.48615925268029314
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "union in christ",
+        "similarity": 0.47577266789854294
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "church discipline",
+        "similarity": 0.39343312526847285
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "anthropology",
+        "similarity": 0.4490215350603727
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "evangelism",
+        "similarity": 0.4367683163281402
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "hamartiology",
+        "similarity": 0.3849488991948744
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "regeneration",
+        "similarity": 0.4935210815605931
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "apologetics",
+        "similarity": 0.4963820969556863
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "justification",
+        "similarity": 0.44267556788701856
+    },
+    {
+        "s_id": 1000623594233,
+        "t_id": "church governance",
+        "similarity": 0.3392613511413658
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "glorification",
+        "similarity": 0.5480037585945586
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "missiology",
+        "similarity": 0.4007996142767894
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "scripture",
+        "similarity": 0.49381491892392465
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "eschatology",
+        "similarity": 0.4795977423080228
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "gospel",
+        "similarity": 0.5768957034003084
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "discipleship",
+        "similarity": 0.4724259823273481
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "christology",
+        "similarity": 0.47969159989331445
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "sacraments",
+        "similarity": 0.45533541306744424
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "baptism",
+        "similarity": 0.4480433550077628
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "doxology",
+        "similarity": 0.5278045029444739
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "sanctification",
+        "similarity": 0.5520497357114047
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "church history",
+        "similarity": 0.4158810495290459
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.4582579081456647
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "divine attributes",
+        "similarity": 0.43506850880809433
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "lords supper",
+        "similarity": 0.5060319964176683
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5276709379061402
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "christian ethics",
+        "similarity": 0.4448943055423714
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "trinity",
+        "similarity": 0.4794918078007464
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "union in christ",
+        "similarity": 0.533382875848331
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "church discipline",
+        "similarity": 0.44903814774420403
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "anthropology",
+        "similarity": 0.4937929616425429
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "evangelism",
+        "similarity": 0.4921361913562107
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "hamartiology",
+        "similarity": 0.4840144837067173
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "regeneration",
+        "similarity": 0.5443038898043495
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "apologetics",
+        "similarity": 0.5480037585945586
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "justification",
+        "similarity": 0.5235624249688371
+    },
+    {
+        "s_id": 1000619078825,
+        "t_id": "church governance",
+        "similarity": 0.3878487056975798
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "glorification",
+        "similarity": 0.41275179250355054
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "missiology",
+        "similarity": 0.29226391854452344
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "scripture",
+        "similarity": 0.41508016806733833
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "eschatology",
+        "similarity": 0.44984934405807286
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "gospel",
+        "similarity": 0.4454936131588969
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "discipleship",
+        "similarity": 0.3860316496340454
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "christology",
+        "similarity": 0.4006497230889907
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "sacraments",
+        "similarity": 0.3659969852091439
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "baptism",
+        "similarity": 0.3781776189917951
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "doxology",
+        "similarity": 0.4653456585050958
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "sanctification",
+        "similarity": 0.3923245986043425
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "church history",
+        "similarity": 0.3529108628530977
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3791797810991929
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "divine attributes",
+        "similarity": 0.4335307074955557
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "lords supper",
+        "similarity": 0.4124854489884354
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4567958895993937
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "christian ethics",
+        "similarity": 0.34285599833215114
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "trinity",
+        "similarity": 0.4247717717622097
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "union in christ",
+        "similarity": 0.39998212085644963
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "church discipline",
+        "similarity": 0.3651591319516303
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "anthropology",
+        "similarity": 0.42450330136115977
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "evangelism",
+        "similarity": 0.3886941903742088
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "hamartiology",
+        "similarity": 0.3847995106576647
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "regeneration",
+        "similarity": 0.3874471991927983
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "apologetics",
+        "similarity": 0.41275179250355054
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "justification",
+        "similarity": 0.38475024649887113
+    },
+    {
+        "s_id": 1000622869796,
+        "t_id": "church governance",
+        "similarity": 0.29985183231328283
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "glorification",
+        "similarity": 0.5077648809362875
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "missiology",
+        "similarity": 0.4008654135426706
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "scripture",
+        "similarity": 0.4513814323167678
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "eschatology",
+        "similarity": 0.5348464201953956
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "gospel",
+        "similarity": 0.5499084808860322
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "discipleship",
+        "similarity": 0.4790898768701046
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "christology",
+        "similarity": 0.4983191264944826
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "sacraments",
+        "similarity": 0.4506924419963534
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "baptism",
+        "similarity": 0.45177140503082813
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "doxology",
+        "similarity": 0.503404430792669
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "sanctification",
+        "similarity": 0.4513712346123676
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "church history",
+        "similarity": 0.43464464165814687
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.43299481610748886
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "divine attributes",
+        "similarity": 0.41326498352032787
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "lords supper",
+        "similarity": 0.5443450109877271
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5343973638790325
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "christian ethics",
+        "similarity": 0.440611717955364
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "trinity",
+        "similarity": 0.5037280824289337
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "union in christ",
+        "similarity": 0.5059894408977348
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "church discipline",
+        "similarity": 0.39895181585051087
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "anthropology",
+        "similarity": 0.48072065868537883
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "evangelism",
+        "similarity": 0.48217866947568694
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "hamartiology",
+        "similarity": 0.4250173988124473
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "regeneration",
+        "similarity": 0.47996924140365727
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "apologetics",
+        "similarity": 0.5077648809362875
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "justification",
+        "similarity": 0.4397779636960907
+    },
+    {
+        "s_id": 1000625080563,
+        "t_id": "church governance",
+        "similarity": 0.35795099976183764
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "glorification",
+        "similarity": 0.400978408845034
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "missiology",
+        "similarity": 0.29040198960880736
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "scripture",
+        "similarity": 0.4028996133779751
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "eschatology",
+        "similarity": 0.40084281514539444
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "gospel",
+        "similarity": 0.37526942923667816
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "discipleship",
+        "similarity": 0.40670578237531185
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "christology",
+        "similarity": 0.38006151985335046
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "sacraments",
+        "similarity": 0.3825311818514938
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "baptism",
+        "similarity": 0.34633924464580496
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "doxology",
+        "similarity": 0.4426479192592836
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "sanctification",
+        "similarity": 0.3863446476242298
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "church history",
+        "similarity": 0.33934687642314076
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3831935159529725
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "divine attributes",
+        "similarity": 0.36524117028554426
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "lords supper",
+        "similarity": 0.44563955568220026
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.3978181769483018
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "christian ethics",
+        "similarity": 0.33532886035576126
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "trinity",
+        "similarity": 0.37281874378678825
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "union in christ",
+        "similarity": 0.4059806033273149
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "church discipline",
+        "similarity": 0.35666516608676574
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "anthropology",
+        "similarity": 0.39144754988171765
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "evangelism",
+        "similarity": 0.3497011820430563
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "hamartiology",
+        "similarity": 0.35103493015145815
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "regeneration",
+        "similarity": 0.3569714136032729
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "apologetics",
+        "similarity": 0.400978408845034
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "justification",
+        "similarity": 0.3499468227598636
+    },
+    {
+        "s_id": 1000618280373,
+        "t_id": "church governance",
+        "similarity": 0.30563143290362027
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "glorification",
+        "similarity": 0.4262015658413173
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "missiology",
+        "similarity": 0.34108683369859616
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "scripture",
+        "similarity": 0.42408997357256484
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "eschatology",
+        "similarity": 0.50280820548428
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "gospel",
+        "similarity": 0.45063883004840494
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "discipleship",
+        "similarity": 0.4515453355797049
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "christology",
+        "similarity": 0.4322400603146356
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "sacraments",
+        "similarity": 0.41897446408312
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "baptism",
+        "similarity": 0.4038773791190313
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "doxology",
+        "similarity": 0.44229509017923796
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "sanctification",
+        "similarity": 0.40666289736942196
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "church history",
+        "similarity": 0.40473399110829733
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.41963644129528543
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "divine attributes",
+        "similarity": 0.3654250267919976
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "lords supper",
+        "similarity": 0.4793715790858156
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5167580951749446
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "christian ethics",
+        "similarity": 0.36238046368266896
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "trinity",
+        "similarity": 0.43666938569669644
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "union in christ",
+        "similarity": 0.4382201799558493
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "church discipline",
+        "similarity": 0.381443146643135
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "anthropology",
+        "similarity": 0.4016605010977077
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "evangelism",
+        "similarity": 0.414888816997524
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "hamartiology",
+        "similarity": 0.38638423997622884
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "regeneration",
+        "similarity": 0.3908998677101354
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "apologetics",
+        "similarity": 0.4262015658413173
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "justification",
+        "similarity": 0.35676841985151064
+    },
+    {
+        "s_id": 1000627403821,
+        "t_id": "church governance",
+        "similarity": 0.3038588303855104
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "glorification",
+        "similarity": 0.37521068616882064
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "missiology",
+        "similarity": 0.3307135465231149
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "scripture",
+        "similarity": 0.4201853977547536
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "eschatology",
+        "similarity": 0.4144433427680731
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "gospel",
+        "similarity": 0.39564057050621027
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "discipleship",
+        "similarity": 0.44036518447042117
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "christology",
+        "similarity": 0.38684889060640093
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "sacraments",
+        "similarity": 0.37228060881171543
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "baptism",
+        "similarity": 0.37853656112021955
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "doxology",
+        "similarity": 0.42630890847630176
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "sanctification",
+        "similarity": 0.3824386740334513
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "church history",
+        "similarity": 0.35009369369067117
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.37886227954621876
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "divine attributes",
+        "similarity": 0.37782123655796473
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "lords supper",
+        "similarity": 0.4388260259593634
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4145487917704268
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "christian ethics",
+        "similarity": 0.38500610862356854
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "trinity",
+        "similarity": 0.40401274292332773
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "union in christ",
+        "similarity": 0.4171532210514596
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "church discipline",
+        "similarity": 0.39172914343558707
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "anthropology",
+        "similarity": 0.40632746141682763
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "evangelism",
+        "similarity": 0.3604236351974568
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "hamartiology",
+        "similarity": 0.371488346017953
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "regeneration",
+        "similarity": 0.3419508767078433
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "apologetics",
+        "similarity": 0.37521068616882064
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "justification",
+        "similarity": 0.3729913691709533
+    },
+    {
+        "s_id": 1000603970285,
+        "t_id": "church governance",
+        "similarity": 0.29807091430070204
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "glorification",
+        "similarity": 0.38482263369805825
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "missiology",
+        "similarity": 0.2990460264411008
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "scripture",
+        "similarity": 0.3921831643205292
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "eschatology",
+        "similarity": 0.4078304395974328
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "gospel",
+        "similarity": 0.3833296155052449
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "discipleship",
+        "similarity": 0.4205429738694675
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "christology",
+        "similarity": 0.3412842276246466
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "sacraments",
+        "similarity": 0.3429956520288646
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "baptism",
+        "similarity": 0.34898747302834043
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "doxology",
+        "similarity": 0.4097947480620426
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "sanctification",
+        "similarity": 0.3918334597471089
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "church history",
+        "similarity": 0.34129788882458456
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.41717151271209485
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "divine attributes",
+        "similarity": 0.38667210957676884
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "lords supper",
+        "similarity": 0.41471936745590976
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.396712376065394
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "christian ethics",
+        "similarity": 0.362202159603927
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "trinity",
+        "similarity": 0.36184336977231146
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "union in christ",
+        "similarity": 0.35638605955314584
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "church discipline",
+        "similarity": 0.4031910938157768
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "anthropology",
+        "similarity": 0.40040058511425125
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "evangelism",
+        "similarity": 0.3607203513453879
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "hamartiology",
+        "similarity": 0.3844044364198948
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "regeneration",
+        "similarity": 0.3552550667214962
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "apologetics",
+        "similarity": 0.38482263369805825
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "justification",
+        "similarity": 0.36704448897501385
+    },
+    {
+        "s_id": 1000610332372,
+        "t_id": "church governance",
+        "similarity": 0.2925271654096103
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "glorification",
+        "similarity": 0.3383353977532064
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "missiology",
+        "similarity": 0.24509154660841997
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "scripture",
+        "similarity": 0.38045219347711834
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "eschatology",
+        "similarity": 0.37166330942715853
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "gospel",
+        "similarity": 0.34673689044512584
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "discipleship",
+        "similarity": 0.34470024855995496
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "christology",
+        "similarity": 0.31246544493147366
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "sacraments",
+        "similarity": 0.312443585146432
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "baptism",
+        "similarity": 0.29256639046281446
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "doxology",
+        "similarity": 0.3955970997625743
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "sanctification",
+        "similarity": 0.3461444734903778
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "church history",
+        "similarity": 0.29212346523545085
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3547730881821006
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "divine attributes",
+        "similarity": 0.3502128777806989
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "lords supper",
+        "similarity": 0.3811517575551898
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.35867020436744285
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "christian ethics",
+        "similarity": 0.28628030710620445
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "trinity",
+        "similarity": 0.32218227085821505
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "union in christ",
+        "similarity": 0.33001758042071855
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "church discipline",
+        "similarity": 0.3191131100750295
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "anthropology",
+        "similarity": 0.36963182464555405
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "evangelism",
+        "similarity": 0.2995188357163684
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "hamartiology",
+        "similarity": 0.34440322962217174
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "regeneration",
+        "similarity": 0.29625102190067737
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "apologetics",
+        "similarity": 0.3383353977532064
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "justification",
+        "similarity": 0.32565332441316397
+    },
+    {
+        "s_id": 1000607042534,
+        "t_id": "church governance",
+        "similarity": 0.24554512494090555
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "glorification",
+        "similarity": 0.36394736317649723
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "missiology",
+        "similarity": 0.292438948320881
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "scripture",
+        "similarity": 0.3941887830252861
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "eschatology",
+        "similarity": 0.4355259286307538
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "gospel",
+        "similarity": 0.3810839941278317
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "discipleship",
+        "similarity": 0.3983137103548838
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "christology",
+        "similarity": 0.33089733988167214
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "sacraments",
+        "similarity": 0.3322958798961554
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "baptism",
+        "similarity": 0.3401020419338866
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "doxology",
+        "similarity": 0.3853475867492166
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "sanctification",
+        "similarity": 0.39812136797036235
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "church history",
+        "similarity": 0.30372959128254085
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.39179837743323764
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "divine attributes",
+        "similarity": 0.36540216249668434
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "lords supper",
+        "similarity": 0.3885026813321466
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.38148917119903814
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "christian ethics",
+        "similarity": 0.3378147436622685
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "trinity",
+        "similarity": 0.356035053116978
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "union in christ",
+        "similarity": 0.35848822075787273
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "church discipline",
+        "similarity": 0.36232671246516357
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "anthropology",
+        "similarity": 0.401232548457542
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "evangelism",
+        "similarity": 0.36265195902337005
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "hamartiology",
+        "similarity": 0.40647737872036305
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "regeneration",
+        "similarity": 0.3586681523800765
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "apologetics",
+        "similarity": 0.36394736317649723
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "justification",
+        "similarity": 0.367381006085698
+    },
+    {
+        "s_id": 1000611304502,
+        "t_id": "church governance",
+        "similarity": 0.24640214615022807
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "glorification",
+        "similarity": 0.42769179611327823
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "missiology",
+        "similarity": 0.3351663955921267
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "scripture",
+        "similarity": 0.42484384229044225
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "eschatology",
+        "similarity": 0.4626356432554627
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "gospel",
+        "similarity": 0.4371501933044975
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "discipleship",
+        "similarity": 0.3815875408881252
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "christology",
+        "similarity": 0.4103222875878708
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "sacraments",
+        "similarity": 0.34127386770737556
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "baptism",
+        "similarity": 0.33355403251350946
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "doxology",
+        "similarity": 0.4533148924934943
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "sanctification",
+        "similarity": 0.39820806400956765
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "church history",
+        "similarity": 0.3790965166377746
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3715155600401421
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "divine attributes",
+        "similarity": 0.4306035427516792
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "lords supper",
+        "similarity": 0.412155250329588
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.44489411869341156
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "christian ethics",
+        "similarity": 0.3889518625322694
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "trinity",
+        "similarity": 0.4354022288707265
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "union in christ",
+        "similarity": 0.4020353267199759
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "church discipline",
+        "similarity": 0.3602883272606422
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "anthropology",
+        "similarity": 0.43225585304812897
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "evangelism",
+        "similarity": 0.3711139082703929
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "hamartiology",
+        "similarity": 0.43580619225548556
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "regeneration",
+        "similarity": 0.37607853668869373
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "apologetics",
+        "similarity": 0.42769179611327823
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "justification",
+        "similarity": 0.4045456533292502
+    },
+    {
+        "s_id": 1000601984502,
+        "t_id": "church governance",
+        "similarity": 0.28429540612066956
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "glorification",
+        "similarity": 0.43588772235153506
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "missiology",
+        "similarity": 0.34184400188572134
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "scripture",
+        "similarity": 0.3886765938226869
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "eschatology",
+        "similarity": 0.42516366254139965
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "gospel",
+        "similarity": 0.49118472257586704
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "discipleship",
+        "similarity": 0.40984201873090326
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "christology",
+        "similarity": 0.4160823690006629
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "sacraments",
+        "similarity": 0.38943588144320795
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "baptism",
+        "similarity": 0.40046641989465837
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "doxology",
+        "similarity": 0.439764775646339
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "sanctification",
+        "similarity": 0.4544429986733276
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "church history",
+        "similarity": 0.3752681716347903
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.38921727566657993
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "divine attributes",
+        "similarity": 0.38899139260512205
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "lords supper",
+        "similarity": 0.4408396499498154
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4458958428579129
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "christian ethics",
+        "similarity": 0.3920107865839422
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "trinity",
+        "similarity": 0.42287113069137816
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "union in christ",
+        "similarity": 0.4305690783932631
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "church discipline",
+        "similarity": 0.40699427765844687
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "anthropology",
+        "similarity": 0.41296115540774947
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "evangelism",
+        "similarity": 0.40547300487733207
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "hamartiology",
+        "similarity": 0.4976794808335186
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "regeneration",
+        "similarity": 0.4356002263310531
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "apologetics",
+        "similarity": 0.43588772235153506
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "justification",
+        "similarity": 0.47982768986365
+    },
+    {
+        "s_id": 1000604898923,
+        "t_id": "church governance",
+        "similarity": 0.29973244450388936
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "glorification",
+        "similarity": 0.4131539160925105
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "missiology",
+        "similarity": 0.31485790961653126
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "scripture",
+        "similarity": 0.36925539415149294
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "eschatology",
+        "similarity": 0.41698742825363677
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "gospel",
+        "similarity": 0.4190586254139226
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "discipleship",
+        "similarity": 0.43568642315390865
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "christology",
+        "similarity": 0.39477687525280974
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "sacraments",
+        "similarity": 0.3725178503137967
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "baptism",
+        "similarity": 0.3564080228846912
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "doxology",
+        "similarity": 0.3883828898007474
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "sanctification",
+        "similarity": 0.36807249511654605
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "church history",
+        "similarity": 0.34786270083603593
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.34352507264256144
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "divine attributes",
+        "similarity": 0.3493424034104511
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "lords supper",
+        "similarity": 0.44610971608214434
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.44940526399232206
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "christian ethics",
+        "similarity": 0.37939560749360557
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "trinity",
+        "similarity": 0.3852320414869823
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "union in christ",
+        "similarity": 0.4057804393512907
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "church discipline",
+        "similarity": 0.3941732506100099
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "anthropology",
+        "similarity": 0.36860233528834097
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "evangelism",
+        "similarity": 0.3818124757435264
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "hamartiology",
+        "similarity": 0.36236885184060513
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "regeneration",
+        "similarity": 0.3812738918253021
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "apologetics",
+        "similarity": 0.4131539160925105
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "justification",
+        "similarity": 0.37534397607577297
+    },
+    {
+        "s_id": 1000613005763,
+        "t_id": "church governance",
+        "similarity": 0.36765671415155027
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "glorification",
+        "similarity": 0.4533248203641982
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "missiology",
+        "similarity": 0.3490982217387737
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "scripture",
+        "similarity": 0.4026307790572406
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "eschatology",
+        "similarity": 0.4543177451786864
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "gospel",
+        "similarity": 0.5142785956684164
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "discipleship",
+        "similarity": 0.46478246968857356
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "christology",
+        "similarity": 0.4707186761188354
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "sacraments",
+        "similarity": 0.43640088012493006
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "baptism",
+        "similarity": 0.4423021395955967
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "doxology",
+        "similarity": 0.40748773136130223
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "sanctification",
+        "similarity": 0.44067554601576575
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "church history",
+        "similarity": 0.3714993731379633
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3796584493234246
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "divine attributes",
+        "similarity": 0.35963557263298673
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "lords supper",
+        "similarity": 0.47590446930749786
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4723972526438731
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "christian ethics",
+        "similarity": 0.4146548318256256
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "trinity",
+        "similarity": 0.41207570064817056
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "union in christ",
+        "similarity": 0.47945001233210716
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "church discipline",
+        "similarity": 0.3775961649616477
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "anthropology",
+        "similarity": 0.4402015889569793
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "evangelism",
+        "similarity": 0.4448592479837762
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "hamartiology",
+        "similarity": 0.4648605943891936
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "regeneration",
+        "similarity": 0.47911114560530255
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "apologetics",
+        "similarity": 0.4533248203641982
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "justification",
+        "similarity": 0.4493460449308807
+    },
+    {
+        "s_id": 1000605992857,
+        "t_id": "church governance",
+        "similarity": 0.32584064897585907
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "glorification",
+        "similarity": 0.39378565501213036
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "missiology",
+        "similarity": 0.3356240165058033
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "scripture",
+        "similarity": 0.37365703773715775
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "eschatology",
+        "similarity": 0.4240937440032619
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "gospel",
+        "similarity": 0.4433410119274567
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "discipleship",
+        "similarity": 0.3927025813926369
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "christology",
+        "similarity": 0.36887369470563014
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "sacraments",
+        "similarity": 0.29021659340985806
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "baptism",
+        "similarity": 0.32017066748900364
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "doxology",
+        "similarity": 0.3828776548984415
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "sanctification",
+        "similarity": 0.38702416349834345
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "church history",
+        "similarity": 0.3490461043793784
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.36702530998522964
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "divine attributes",
+        "similarity": 0.3235237671729911
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "lords supper",
+        "similarity": 0.3762873795259824
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.41731422357924264
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "christian ethics",
+        "similarity": 0.4041396069309533
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "trinity",
+        "similarity": 0.3574046198661316
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "union in christ",
+        "similarity": 0.3619388370518004
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "church discipline",
+        "similarity": 0.39681346358105596
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "anthropology",
+        "similarity": 0.3855331179607417
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "evangelism",
+        "similarity": 0.42375129100417297
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "hamartiology",
+        "similarity": 0.4617038860913433
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "regeneration",
+        "similarity": 0.3809042427563693
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "apologetics",
+        "similarity": 0.39378565501213036
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "justification",
+        "similarity": 0.4046985563941149
+    },
+    {
+        "s_id": 1000612106763,
+        "t_id": "church governance",
+        "similarity": 0.28825506779647136
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "glorification",
+        "similarity": 0.4395682190585031
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "missiology",
+        "similarity": 0.34925152904995505
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "scripture",
+        "similarity": 0.4055303956631012
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "eschatology",
+        "similarity": 0.46134486699176125
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "gospel",
+        "similarity": 0.4960687390228478
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "discipleship",
+        "similarity": 0.4259079323933571
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "christology",
+        "similarity": 0.4663959035549501
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "sacraments",
+        "similarity": 0.41677607152953394
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "baptism",
+        "similarity": 0.4132924272222503
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "doxology",
+        "similarity": 0.4562830512031476
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "sanctification",
+        "similarity": 0.40769059529676965
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "church history",
+        "similarity": 0.3918731461963008
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3681457605753426
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "divine attributes",
+        "similarity": 0.3696723878248155
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "lords supper",
+        "similarity": 0.49521429189594157
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.48623199367657993
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "christian ethics",
+        "similarity": 0.36265744265273714
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "trinity",
+        "similarity": 0.42779002512947006
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "union in christ",
+        "similarity": 0.4602807539550055
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "church discipline",
+        "similarity": 0.37402825485015784
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "anthropology",
+        "similarity": 0.4030073524967493
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "evangelism",
+        "similarity": 0.418181095186878
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "hamartiology",
+        "similarity": 0.39245890313396914
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "regeneration",
+        "similarity": 0.4349830357655112
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "apologetics",
+        "similarity": 0.4395682190585031
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "justification",
+        "similarity": 0.3986834656716183
+    },
+    {
+        "s_id": 1000613924430,
+        "t_id": "church governance",
+        "similarity": 0.34422648590403226
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "glorification",
+        "similarity": 0.38575830900266733
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "missiology",
+        "similarity": 0.25618858338504413
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "scripture",
+        "similarity": 0.3670234486839452
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "eschatology",
+        "similarity": 0.37365005269299884
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "gospel",
+        "similarity": 0.3355462574690311
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "discipleship",
+        "similarity": 0.34462886229369005
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "christology",
+        "similarity": 0.31490355543614046
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "sacraments",
+        "similarity": 0.3193704976106464
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "baptism",
+        "similarity": 0.2942081152613757
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "doxology",
+        "similarity": 0.4120106939280267
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "sanctification",
+        "similarity": 0.36373980433085384
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "church history",
+        "similarity": 0.3018327585607009
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.35384255405937276
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "divine attributes",
+        "similarity": 0.3651948798500271
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "lords supper",
+        "similarity": 0.3764092916354267
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.38268078383053095
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "christian ethics",
+        "similarity": 0.31744483871295254
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "trinity",
+        "similarity": 0.3481708829759943
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "union in christ",
+        "similarity": 0.3557067654424303
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "church discipline",
+        "similarity": 0.32058273600641374
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "anthropology",
+        "similarity": 0.356436280195702
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "evangelism",
+        "similarity": 0.3153177779069003
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "hamartiology",
+        "similarity": 0.35388205529610894
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "regeneration",
+        "similarity": 0.31573534534569203
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "apologetics",
+        "similarity": 0.38575830900266733
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "justification",
+        "similarity": 0.32381413592406527
+    },
+    {
+        "s_id": 1000602877429,
+        "t_id": "church governance",
+        "similarity": 0.24810519378962076
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "glorification",
+        "similarity": 0.4137655352974177
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "missiology",
+        "similarity": 0.32651122359287865
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "scripture",
+        "similarity": 0.35658614326189414
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "eschatology",
+        "similarity": 0.41612398377213405
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "gospel",
+        "similarity": 0.49662955754221705
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "discipleship",
+        "similarity": 0.3946099925232359
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "christology",
+        "similarity": 0.4091459059129914
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "sacraments",
+        "similarity": 0.40173365502363356
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "baptism",
+        "similarity": 0.4052311649833967
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "doxology",
+        "similarity": 0.41778453578713826
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "sanctification",
+        "similarity": 0.3928878934063843
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "church history",
+        "similarity": 0.3549155737238307
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.33626903466585656
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "divine attributes",
+        "similarity": 0.2945051592203577
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "lords supper",
+        "similarity": 0.43826988488213137
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4294818774361028
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "christian ethics",
+        "similarity": 0.3367171279979571
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "trinity",
+        "similarity": 0.3742655789949977
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "union in christ",
+        "similarity": 0.4259600780051403
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "church discipline",
+        "similarity": 0.32846673169508966
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "anthropology",
+        "similarity": 0.397400383052072
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "evangelism",
+        "similarity": 0.4378813909974286
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "hamartiology",
+        "similarity": 0.40753945039998757
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "regeneration",
+        "similarity": 0.42357931618347405
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "apologetics",
+        "similarity": 0.4137655352974177
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "justification",
+        "similarity": 0.4160316719205475
+    },
+    {
+        "s_id": 1000609211593,
+        "t_id": "church governance",
+        "similarity": 0.23276992239902544
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "glorification",
+        "similarity": 0.38562359037402966
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "missiology",
+        "similarity": 0.378974160121708
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "scripture",
+        "similarity": 0.45713196746497164
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "eschatology",
+        "similarity": 0.456642238224505
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "gospel",
+        "similarity": 0.4854207860075397
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "discipleship",
+        "similarity": 0.47377630077975896
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "christology",
+        "similarity": 0.5009160531153202
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "sacraments",
+        "similarity": 0.4303217586917034
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "baptism",
+        "similarity": 0.44241012418601855
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "doxology",
+        "similarity": 0.46598397025227406
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "sanctification",
+        "similarity": 0.40042257350332955
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "church history",
+        "similarity": 0.4192228878318949
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.4024677633833908
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "divine attributes",
+        "similarity": 0.4126529460865986
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "lords supper",
+        "similarity": 0.485029857628284
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.42725157099070227
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "christian ethics",
+        "similarity": 0.4113011949679469
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "trinity",
+        "similarity": 0.46036736283374324
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "union in christ",
+        "similarity": 0.4243929079898715
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "church discipline",
+        "similarity": 0.4344521314744002
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "anthropology",
+        "similarity": 0.42895154100599564
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "evangelism",
+        "similarity": 0.44840663403277004
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "hamartiology",
+        "similarity": 0.39544197519891877
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "regeneration",
+        "similarity": 0.4011451255621062
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "apologetics",
+        "similarity": 0.38562359037402966
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "justification",
+        "similarity": 0.4110052242488492
+    },
+    {
+        "s_id": 1000614809076,
+        "t_id": "church governance",
+        "similarity": 0.38618694723061264
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "glorification",
+        "similarity": 0.3966323595722419
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "missiology",
+        "similarity": 0.29077235732985096
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "scripture",
+        "similarity": 0.3898132899022392
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "eschatology",
+        "similarity": 0.42258745174540313
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "gospel",
+        "similarity": 0.47007535962289615
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "discipleship",
+        "similarity": 0.40786727288098157
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "christology",
+        "similarity": 0.44987160890823863
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "sacraments",
+        "similarity": 0.44367601794960154
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "baptism",
+        "similarity": 0.42064103119122037
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "doxology",
+        "similarity": 0.4327728370801146
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "sanctification",
+        "similarity": 0.3809445603548245
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "church history",
+        "similarity": 0.3582347028685375
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3504220743462575
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "divine attributes",
+        "similarity": 0.3474751589337822
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "lords supper",
+        "similarity": 0.540400375817373
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.406614004730359
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "christian ethics",
+        "similarity": 0.3419534403867486
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "trinity",
+        "similarity": 0.4164197957675374
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "union in christ",
+        "similarity": 0.44489812756918146
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "church discipline",
+        "similarity": 0.34207551256287805
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "anthropology",
+        "similarity": 0.3936415434498486
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "evangelism",
+        "similarity": 0.38254652148289464
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "hamartiology",
+        "similarity": 0.43167048760104343
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "regeneration",
+        "similarity": 0.3712575395473112
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "apologetics",
+        "similarity": 0.3966323595722419
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "justification",
+        "similarity": 0.40869730058830456
+    },
+    {
+        "s_id": 1000628202546,
+        "t_id": "church governance",
+        "similarity": 0.2611690717681855
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "glorification",
+        "similarity": 0.44673837871977906
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "missiology",
+        "similarity": 0.38981578230397507
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "scripture",
+        "similarity": 0.5535012366480521
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "eschatology",
+        "similarity": 0.5315610165022345
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "gospel",
+        "similarity": 0.5562460116209947
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "discipleship",
+        "similarity": 0.45299607133966435
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "christology",
+        "similarity": 0.5126703343487207
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "sacraments",
+        "similarity": 0.41123488231391436
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "baptism",
+        "similarity": 0.4426578546633166
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "doxology",
+        "similarity": 0.49840372896295293
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "sanctification",
+        "similarity": 0.45570582543107635
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "church history",
+        "similarity": 0.4568635433758905
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.45387285834353613
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "divine attributes",
+        "similarity": 0.4598136364716759
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "lords supper",
+        "similarity": 0.46997580825877183
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5398764028962497
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "christian ethics",
+        "similarity": 0.4459661467159963
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "trinity",
+        "similarity": 0.5086117924328558
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "union in christ",
+        "similarity": 0.49591398518073204
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "church discipline",
+        "similarity": 0.401322752462508
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "anthropology",
+        "similarity": 0.5228794070351598
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "evangelism",
+        "similarity": 0.4793354635159376
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "hamartiology",
+        "similarity": 0.4396473153108808
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "regeneration",
+        "similarity": 0.4707308307703114
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "apologetics",
+        "similarity": 0.44673837871977906
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "justification",
+        "similarity": 0.4355756587338979
+    },
+    {
+        "s_id": 1000631415895,
+        "t_id": "church governance",
+        "similarity": 0.3490037513151873
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "glorification",
+        "similarity": 0.43344058788355655
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "missiology",
+        "similarity": 0.40256088977938176
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "scripture",
+        "similarity": 0.45941681202994444
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "eschatology",
+        "similarity": 0.43580422967385346
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "gospel",
+        "similarity": 0.48256294517225107
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "discipleship",
+        "similarity": 0.48203253895806075
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "christology",
+        "similarity": 0.44372549968270114
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "sacraments",
+        "similarity": 0.43080799413270116
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "baptism",
+        "similarity": 0.4401457530807566
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "doxology",
+        "similarity": 0.4532666907350937
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "sanctification",
+        "similarity": 0.5095344867937948
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "church history",
+        "similarity": 0.43371702381209
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.4585226893168519
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "divine attributes",
+        "similarity": 0.36839402842892055
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "lords supper",
+        "similarity": 0.47865835786440936
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.42352238760859745
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "christian ethics",
+        "similarity": 0.467946872246114
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "trinity",
+        "similarity": 0.4409649447711777
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "union in christ",
+        "similarity": 0.4820982876667994
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "church discipline",
+        "similarity": 0.5582926861040417
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "anthropology",
+        "similarity": 0.4314623868424824
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "evangelism",
+        "similarity": 0.4585301109620823
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "hamartiology",
+        "similarity": 0.5129330387130491
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "regeneration",
+        "similarity": 0.4580551930947171
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "apologetics",
+        "similarity": 0.43344058788355655
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "justification",
+        "similarity": 0.4899204436424027
+    },
+    {
+        "s_id": 1000598150438,
+        "t_id": "church governance",
+        "similarity": 0.4282003556756026
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "glorification",
+        "similarity": 0.45094403016061835
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "missiology",
+        "similarity": 0.33411921454843985
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "scripture",
+        "similarity": 0.4571516022385754
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "eschatology",
+        "similarity": 0.49341555373614154
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "gospel",
+        "similarity": 0.4823368738640537
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "discipleship",
+        "similarity": 0.4378560571104059
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "christology",
+        "similarity": 0.40993987829434914
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "sacraments",
+        "similarity": 0.40263749745288796
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "baptism",
+        "similarity": 0.41309896156579484
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "doxology",
+        "similarity": 0.47917119049153506
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "sanctification",
+        "similarity": 0.44816969425147013
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "church history",
+        "similarity": 0.40719168694392205
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.42807238920377316
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "divine attributes",
+        "similarity": 0.4254345638423943
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "lords supper",
+        "similarity": 0.48189848174935657
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5047932809760483
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "christian ethics",
+        "similarity": 0.38286007947870615
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "trinity",
+        "similarity": 0.4542909899711376
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "union in christ",
+        "similarity": 0.4424715573274249
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "church discipline",
+        "similarity": 0.4316117678525063
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "anthropology",
+        "similarity": 0.43555557605078643
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "evangelism",
+        "similarity": 0.4001807644787644
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "hamartiology",
+        "similarity": 0.4300644601461989
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "regeneration",
+        "similarity": 0.41968596052334095
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "apologetics",
+        "similarity": 0.45094403016061835
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "justification",
+        "similarity": 0.4442697471722455
+    },
+    {
+        "s_id": 1000599241241,
+        "t_id": "church governance",
+        "similarity": 0.3281274453302214
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "glorification",
+        "similarity": 0.46601435086906573
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "missiology",
+        "similarity": 0.36772688731574166
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "scripture",
+        "similarity": 0.4298494521381336
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "eschatology",
+        "similarity": 0.4247807699824681
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "gospel",
+        "similarity": 0.5157678518352297
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "discipleship",
+        "similarity": 0.4216988488925476
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "christology",
+        "similarity": 0.4132101459398564
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "sacraments",
+        "similarity": 0.4124832208088275
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "baptism",
+        "similarity": 0.4090861192426687
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "doxology",
+        "similarity": 0.4625178800258021
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "sanctification",
+        "similarity": 0.4719080420759135
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "church history",
+        "similarity": 0.4023210232268856
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.39558456723107055
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "divine attributes",
+        "similarity": 0.3987440493558096
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "lords supper",
+        "similarity": 0.4392442041131538
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.44129712744594984
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "christian ethics",
+        "similarity": 0.3902424524200528
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "trinity",
+        "similarity": 0.40426648323422654
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "union in christ",
+        "similarity": 0.4285691596259535
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "church discipline",
+        "similarity": 0.4408626256495821
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "anthropology",
+        "similarity": 0.4272813945648366
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "evangelism",
+        "similarity": 0.4592338628393643
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "hamartiology",
+        "similarity": 0.5164539770806928
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "regeneration",
+        "similarity": 0.4561185337538346
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "apologetics",
+        "similarity": 0.46601435086906573
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "justification",
+        "similarity": 0.48408009877207403
+    },
+    {
+        "s_id": 1000593071454,
+        "t_id": "church governance",
+        "similarity": 0.3183939327081663
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "glorification",
+        "similarity": 0.42437064600204066
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "missiology",
+        "similarity": 0.2780736118993184
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "scripture",
+        "similarity": 0.3808966562993394
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "eschatology",
+        "similarity": 0.4325922352072597
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "gospel",
+        "similarity": 0.37944716497406716
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "discipleship",
+        "similarity": 0.349016432342648
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "christology",
+        "similarity": 0.3668110996512858
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "sacraments",
+        "similarity": 0.3216319350822781
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "baptism",
+        "similarity": 0.317811702037717
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "doxology",
+        "similarity": 0.4764579460707933
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "sanctification",
+        "similarity": 0.37011448430570526
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "church history",
+        "similarity": 0.3380589772234236
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3933352814863385
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "divine attributes",
+        "similarity": 0.3729044881512308
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "lords supper",
+        "similarity": 0.4360298707191161
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.43835423229830334
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "christian ethics",
+        "similarity": 0.31354589332027644
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "trinity",
+        "similarity": 0.4057524802314144
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "union in christ",
+        "similarity": 0.4032952860778072
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "church discipline",
+        "similarity": 0.33548184028207606
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "anthropology",
+        "similarity": 0.3648111550173073
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "evangelism",
+        "similarity": 0.3132859365390964
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "hamartiology",
+        "similarity": 0.366880673101569
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "regeneration",
+        "similarity": 0.33326415265664455
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "apologetics",
+        "similarity": 0.42437064600204066
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "justification",
+        "similarity": 0.33280374264479395
+    },
+    {
+        "s_id": 1000615645709,
+        "t_id": "church governance",
+        "similarity": 0.23699045153727963
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "glorification",
+        "similarity": 0.5045798771590201
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "missiology",
+        "similarity": 0.39393340173672853
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "scripture",
+        "similarity": 0.4783941055516092
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "eschatology",
+        "similarity": 0.4489735180788694
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "gospel",
+        "similarity": 0.5938378902130899
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "discipleship",
+        "similarity": 0.4314623948727745
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "christology",
+        "similarity": 0.46420286041432246
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "sacraments",
+        "similarity": 0.43106440990342443
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "baptism",
+        "similarity": 0.42156254213267186
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "doxology",
+        "similarity": 0.530056117813049
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "sanctification",
+        "similarity": 0.472049079899711
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "church history",
+        "similarity": 0.4108136235272784
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.42771130328838
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "divine attributes",
+        "similarity": 0.440729830647522
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "lords supper",
+        "similarity": 0.5138624082527703
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4947360324291402
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "christian ethics",
+        "similarity": 0.4164433947912668
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "trinity",
+        "similarity": 0.48916328616272664
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "union in christ",
+        "similarity": 0.4995698101478124
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "church discipline",
+        "similarity": 0.40317849295530606
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "anthropology",
+        "similarity": 0.45765615438099866
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "evangelism",
+        "similarity": 0.4827901849059179
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "hamartiology",
+        "similarity": 0.4816874554889742
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "regeneration",
+        "similarity": 0.4647424432027063
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "apologetics",
+        "similarity": 0.5045798771590201
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "justification",
+        "similarity": 0.4799493238928232
+    },
+    {
+        "s_id": 1000591945320,
+        "t_id": "church governance",
+        "similarity": 0.34866597461616494
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "glorification",
+        "similarity": 0.44524530180897814
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "missiology",
+        "similarity": 0.3234976317424765
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "scripture",
+        "similarity": 0.39477744792378944
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "eschatology",
+        "similarity": 0.44782820396373935
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "gospel",
+        "similarity": 0.46900413073411856
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "discipleship",
+        "similarity": 0.4019017322202426
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "christology",
+        "similarity": 0.42040715272874485
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "sacraments",
+        "similarity": 0.3733718576400705
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "baptism",
+        "similarity": 0.40318163566605647
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "doxology",
+        "similarity": 0.461165680567547
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "sanctification",
+        "similarity": 0.4161253996717913
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "church history",
+        "similarity": 0.36764456484322194
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3869106079165433
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "divine attributes",
+        "similarity": 0.3597963702630217
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "lords supper",
+        "similarity": 0.4421355417887879
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.47303748351639696
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "christian ethics",
+        "similarity": 0.38926826930783154
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "trinity",
+        "similarity": 0.41236259169576217
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "union in christ",
+        "similarity": 0.4358565607828976
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "church discipline",
+        "similarity": 0.3811845940834809
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "anthropology",
+        "similarity": 0.44022003303815715
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "evangelism",
+        "similarity": 0.38103768961157614
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "hamartiology",
+        "similarity": 0.482788747726507
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "regeneration",
+        "similarity": 0.43687029823872575
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "apologetics",
+        "similarity": 0.44524530180897814
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "justification",
+        "similarity": 0.41103537866529105
+    },
+    {
+        "s_id": 1000602391878,
+        "t_id": "church governance",
+        "similarity": 0.26236003490247517
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "glorification",
+        "similarity": 0.4545932603709582
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "missiology",
+        "similarity": 0.2910799431545325
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "scripture",
+        "similarity": 0.36423194902124634
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "eschatology",
+        "similarity": 0.4752527600525206
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "gospel",
+        "similarity": 0.4132256118638713
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "discipleship",
+        "similarity": 0.37184871449411455
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "christology",
+        "similarity": 0.38557982203716434
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "sacraments",
+        "similarity": 0.3625902633447144
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "baptism",
+        "similarity": 0.3539009197555806
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "doxology",
+        "similarity": 0.45755574459751025
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "sanctification",
+        "similarity": 0.39313021235212664
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "church history",
+        "similarity": 0.3341027586999632
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3805671669110411
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "divine attributes",
+        "similarity": 0.37670738114248237
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "lords supper",
+        "similarity": 0.4416764200594293
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4817278350624056
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "christian ethics",
+        "similarity": 0.3646845221003545
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "trinity",
+        "similarity": 0.41947800581145017
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "union in christ",
+        "similarity": 0.4121493684172619
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "church discipline",
+        "similarity": 0.329900721915121
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "anthropology",
+        "similarity": 0.41139293023885687
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "evangelism",
+        "similarity": 0.3620071439539788
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "hamartiology",
+        "similarity": 0.3983653625194786
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "regeneration",
+        "similarity": 0.3925751467283907
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "apologetics",
+        "similarity": 0.4545932603709582
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "justification",
+        "similarity": 0.3619440539335388
+    },
+    {
+        "s_id": 1000596189277,
+        "t_id": "church governance",
+        "similarity": 0.27170282671504437
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "glorification",
+        "similarity": 0.4589629984706704
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "missiology",
+        "similarity": 0.3653176601320637
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "scripture",
+        "similarity": 0.45166827577551494
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "eschatology",
+        "similarity": 0.4703133639382081
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "gospel",
+        "similarity": 0.5299707145596083
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "discipleship",
+        "similarity": 0.45067846191215966
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "christology",
+        "similarity": 0.5043834575955937
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "sacraments",
+        "similarity": 0.4704807035139458
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "baptism",
+        "similarity": 0.4431025123629946
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "doxology",
+        "similarity": 0.46427391228658166
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "sanctification",
+        "similarity": 0.45139116651171085
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "church history",
+        "similarity": 0.4108165128853135
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.4082237492162074
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "divine attributes",
+        "similarity": 0.3673126447181961
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "lords supper",
+        "similarity": 0.5378890453242668
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4886328262300015
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "christian ethics",
+        "similarity": 0.36388576864861966
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "trinity",
+        "similarity": 0.464074741168729
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "union in christ",
+        "similarity": 0.4876789888428772
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "church discipline",
+        "similarity": 0.3533944323575084
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "anthropology",
+        "similarity": 0.4304293429932443
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "evangelism",
+        "similarity": 0.4645345290741935
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "hamartiology",
+        "similarity": 0.42715371195047014
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "regeneration",
+        "similarity": 0.4632866485520116
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "apologetics",
+        "similarity": 0.4589629984706704
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "justification",
+        "similarity": 0.441728064510658
+    },
+    {
+        "s_id": 1000640199779,
+        "t_id": "church governance",
+        "similarity": 0.295219590590986
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "glorification",
+        "similarity": 0.4454794471703614
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "missiology",
+        "similarity": 0.319027928232978
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "scripture",
+        "similarity": 0.3839695773820689
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "eschatology",
+        "similarity": 0.4627404112880074
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "gospel",
+        "similarity": 0.42397496913219745
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "discipleship",
+        "similarity": 0.38790765656958487
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "christology",
+        "similarity": 0.40891047101374656
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "sacraments",
+        "similarity": 0.3471402936059609
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "baptism",
+        "similarity": 0.33876938155989156
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "doxology",
+        "similarity": 0.43267677243806124
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "sanctification",
+        "similarity": 0.38890164015843753
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "church history",
+        "similarity": 0.3505116644052111
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.37359028212674633
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "divine attributes",
+        "similarity": 0.39698242632316916
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "lords supper",
+        "similarity": 0.4310891063774626
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4594959760158805
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "christian ethics",
+        "similarity": 0.3684300738701391
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "trinity",
+        "similarity": 0.41543313049793573
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "union in christ",
+        "similarity": 0.4171024432812305
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "church discipline",
+        "similarity": 0.3404269801602588
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "anthropology",
+        "similarity": 0.4279185803149609
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "evangelism",
+        "similarity": 0.35280953461969305
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "hamartiology",
+        "similarity": 0.4644148669888677
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "regeneration",
+        "similarity": 0.38095293636684724
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "apologetics",
+        "similarity": 0.4454794471703614
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "justification",
+        "similarity": 0.36926629330200955
+    },
+    {
+        "s_id": 1000600481517,
+        "t_id": "church governance",
+        "similarity": 0.24128998361660323
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "glorification",
+        "similarity": 0.4512626332606671
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "missiology",
+        "similarity": 0.3528672002944556
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "scripture",
+        "similarity": 0.4084385802523395
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "eschatology",
+        "similarity": 0.41861611317232267
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "gospel",
+        "similarity": 0.5005819537921936
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "discipleship",
+        "similarity": 0.4363701614637465
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "christology",
+        "similarity": 0.4542921866522049
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "sacraments",
+        "similarity": 0.40305448107035713
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "baptism",
+        "similarity": 0.41487114596178754
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "doxology",
+        "similarity": 0.4465438329671259
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "sanctification",
+        "similarity": 0.3911487223198007
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "church history",
+        "similarity": 0.39746994450843315
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.4116322255345425
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "divine attributes",
+        "similarity": 0.3403636511952761
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "lords supper",
+        "similarity": 0.46474504438312003
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.44720854939101606
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "christian ethics",
+        "similarity": 0.36604346292350237
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "trinity",
+        "similarity": 0.3958858691391438
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "union in christ",
+        "similarity": 0.433500276367064
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "church discipline",
+        "similarity": 0.3271824549043828
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "anthropology",
+        "similarity": 0.43217672102457205
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "evangelism",
+        "similarity": 0.4516682004661378
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "hamartiology",
+        "similarity": 0.41005772981869415
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "regeneration",
+        "similarity": 0.43802303080345245
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "apologetics",
+        "similarity": 0.4512626332606671
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "justification",
+        "similarity": 0.38547839900927033
+    },
+    {
+        "s_id": 1000608108151,
+        "t_id": "church governance",
+        "similarity": 0.24927890389493879
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "glorification",
+        "similarity": 0.472246504354124
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "missiology",
+        "similarity": 0.33978831907321666
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "scripture",
+        "similarity": 0.43860510655572127
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "eschatology",
+        "similarity": 0.5007076558706512
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "gospel",
+        "similarity": 0.5406083777511168
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "discipleship",
+        "similarity": 0.3982646898909933
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "christology",
+        "similarity": 0.42385606788101915
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "sacraments",
+        "similarity": 0.3949150720132978
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "baptism",
+        "similarity": 0.43112100243571516
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "doxology",
+        "similarity": 0.46221109969337226
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "sanctification",
+        "similarity": 0.4674896719393454
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "church history",
+        "similarity": 0.3807853863163944
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3811343541574622
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "divine attributes",
+        "similarity": 0.4256853704790843
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "lords supper",
+        "similarity": 0.4392444184972823
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5368198037518436
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "christian ethics",
+        "similarity": 0.39710655062584166
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "trinity",
+        "similarity": 0.45316232831333325
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "union in christ",
+        "similarity": 0.4316246638343576
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "church discipline",
+        "similarity": 0.40925001363644514
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "anthropology",
+        "similarity": 0.5092085407267427
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "evangelism",
+        "similarity": 0.43980194508471737
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "hamartiology",
+        "similarity": 0.5322726254011336
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "regeneration",
+        "similarity": 0.48352609380942857
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "apologetics",
+        "similarity": 0.472246504354124
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "justification",
+        "similarity": 0.46883567867382775
+    },
+    {
+        "s_id": 1000644144270,
+        "t_id": "church governance",
+        "similarity": 0.30970494309138397
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "glorification",
+        "similarity": 0.4254028081816169
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "missiology",
+        "similarity": 0.3186420706698273
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "scripture",
+        "similarity": 0.4138007305230812
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "eschatology",
+        "similarity": 0.4499624955899242
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "gospel",
+        "similarity": 0.4328730679003153
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "discipleship",
+        "similarity": 0.3789554578508686
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "christology",
+        "similarity": 0.39458159129686754
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "sacraments",
+        "similarity": 0.39242086023295447
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "baptism",
+        "similarity": 0.3708870085762304
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "doxology",
+        "similarity": 0.4836870398130152
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "sanctification",
+        "similarity": 0.40092779801076395
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "church history",
+        "similarity": 0.35182323656753567
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3770036229173006
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "divine attributes",
+        "similarity": 0.45431957157967745
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "lords supper",
+        "similarity": 0.45759133935850516
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.448058975102969
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "christian ethics",
+        "similarity": 0.348305184713406
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "trinity",
+        "similarity": 0.42030785313708796
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "union in christ",
+        "similarity": 0.3838048882880662
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "church discipline",
+        "similarity": 0.3822225052514144
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "anthropology",
+        "similarity": 0.40753678018428774
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "evangelism",
+        "similarity": 0.3628220511361565
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "hamartiology",
+        "similarity": 0.4036862460923643
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "regeneration",
+        "similarity": 0.36268984150702843
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "apologetics",
+        "similarity": 0.4254028081816169
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "justification",
+        "similarity": 0.3825962596945274
+    },
+    {
+        "s_id": 1000617468769,
+        "t_id": "church governance",
+        "similarity": 0.2910755957839395
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "glorification",
+        "similarity": 0.4437138822346094
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "missiology",
+        "similarity": 0.3024932924681354
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "scripture",
+        "similarity": 0.4012724363770471
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "eschatology",
+        "similarity": 0.4715041229805442
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "gospel",
+        "similarity": 0.45885700021220766
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "discipleship",
+        "similarity": 0.41006465957336824
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "christology",
+        "similarity": 0.4163157608930573
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "sacraments",
+        "similarity": 0.39212663936361075
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "baptism",
+        "similarity": 0.43473914611724646
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "doxology",
+        "similarity": 0.4315686391601688
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "sanctification",
+        "similarity": 0.4375142309131157
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "church history",
+        "similarity": 0.35822071271000866
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3569048372780087
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "divine attributes",
+        "similarity": 0.3948743895856092
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "lords supper",
+        "similarity": 0.42336477612995743
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4998589844817382
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "christian ethics",
+        "similarity": 0.38007310635852976
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "trinity",
+        "similarity": 0.44219491177972514
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "union in christ",
+        "similarity": 0.4328693190069366
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "church discipline",
+        "similarity": 0.3865781626122948
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "anthropology",
+        "similarity": 0.5074911880739982
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "evangelism",
+        "similarity": 0.40669941331639375
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "hamartiology",
+        "similarity": 0.4909125847974085
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "regeneration",
+        "similarity": 0.45576096776818004
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "apologetics",
+        "similarity": 0.4437138822346094
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "justification",
+        "similarity": 0.43163888147508755
+    },
+    {
+        "s_id": 1000643320612,
+        "t_id": "church governance",
+        "similarity": 0.30659375266482203
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "glorification",
+        "similarity": 0.3901660994880092
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "missiology",
+        "similarity": 0.3124866349670397
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "scripture",
+        "similarity": 0.37630674683526355
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "eschatology",
+        "similarity": 0.42227064655331825
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "gospel",
+        "similarity": 0.4692606570847322
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "discipleship",
+        "similarity": 0.3727675294290036
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "christology",
+        "similarity": 0.44033024031731216
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "sacraments",
+        "similarity": 0.4224575543749791
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "baptism",
+        "similarity": 0.39410570296158354
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "doxology",
+        "similarity": 0.38594347350836766
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "sanctification",
+        "similarity": 0.36589159358101264
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "church history",
+        "similarity": 0.39913310027555415
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3419577952772624
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "divine attributes",
+        "similarity": 0.3066763442382022
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "lords supper",
+        "similarity": 0.504140672241997
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.4434387483851391
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "christian ethics",
+        "similarity": 0.31574996666087596
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "trinity",
+        "similarity": 0.42295089698938143
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "union in christ",
+        "similarity": 0.4425314687851944
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "church discipline",
+        "similarity": 0.31088255056939873
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "anthropology",
+        "similarity": 0.3990330140000049
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "evangelism",
+        "similarity": 0.4003981683528601
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "hamartiology",
+        "similarity": 0.36483577539304063
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "regeneration",
+        "similarity": 0.40073415341709084
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "apologetics",
+        "similarity": 0.3901660994880092
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "justification",
+        "similarity": 0.36350383629531025
+    },
+    {
+        "s_id": 1000638890614,
+        "t_id": "church governance",
+        "similarity": 0.2752628982752484
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "glorification",
+        "similarity": 0.39215314142829183
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "missiology",
+        "similarity": 0.3116752958680771
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "scripture",
+        "similarity": 0.38222829387739576
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "eschatology",
+        "similarity": 0.36842899013315866
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "gospel",
+        "similarity": 0.4464986853267643
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "discipleship",
+        "similarity": 0.4037559438050594
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "christology",
+        "similarity": 0.39305283302898597
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "sacraments",
+        "similarity": 0.35097281288869897
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "baptism",
+        "similarity": 0.3985280746300593
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "doxology",
+        "similarity": 0.38192304918058684
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "sanctification",
+        "similarity": 0.5017236196535283
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "church history",
+        "similarity": 0.35388616911090753
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.38174761555708947
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "divine attributes",
+        "similarity": 0.32626080563715343
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "lords supper",
+        "similarity": 0.3880840991290343
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.39936989318318983
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "christian ethics",
+        "similarity": 0.43317298549352634
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "trinity",
+        "similarity": 0.37711873406906693
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "union in christ",
+        "similarity": 0.4056035322244078
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "church discipline",
+        "similarity": 0.4645552936527222
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "anthropology",
+        "similarity": 0.38763472377555386
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "evangelism",
+        "similarity": 0.3928339294478617
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "hamartiology",
+        "similarity": 0.47865236773064473
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "regeneration",
+        "similarity": 0.4323614867046339
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "apologetics",
+        "similarity": 0.39215314142829183
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "justification",
+        "similarity": 0.4409961404983954
+    },
+    {
+        "s_id": 1000597155317,
+        "t_id": "church governance",
+        "similarity": 0.32859902090851845
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "glorification",
+        "similarity": 0.3798967855861089
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "missiology",
+        "similarity": 0.2617914629014002
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "scripture",
+        "similarity": 0.3776445663626953
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "eschatology",
+        "similarity": 0.4473820418421294
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "gospel",
+        "similarity": 0.4340109195596179
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "discipleship",
+        "similarity": 0.325920202536437
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "christology",
+        "similarity": 0.32765331168334927
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "sacraments",
+        "similarity": 0.36009900494317537
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "baptism",
+        "similarity": 0.42049477760329357
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "doxology",
+        "similarity": 0.3774082176810135
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "sanctification",
+        "similarity": 0.3737331250950158
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "church history",
+        "similarity": 0.31447689791250993
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "spiritual disciplines",
+        "similarity": 0.3113827974042377
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "divine attributes",
+        "similarity": 0.3430093582681941
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "lords supper",
+        "similarity": 0.372386439994215
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "new heavens and new earth",
+        "similarity": 0.5042476942120939
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "christian ethics",
+        "similarity": 0.29989666370348106
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "trinity",
+        "similarity": 0.3608816773026485
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "union in christ",
+        "similarity": 0.3181028790542926
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "church discipline",
+        "similarity": 0.35314279801261605
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "anthropology",
+        "similarity": 0.41998799235042733
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "evangelism",
+        "similarity": 0.3743961268204169
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "hamartiology",
+        "similarity": 0.418438762934899
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "regeneration",
+        "similarity": 0.3769004209669268
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "apologetics",
+        "similarity": 0.3798967855861089
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "justification",
+        "similarity": 0.37805982033635027
+    },
+    {
+        "s_id": 1000644984712,
+        "t_id": "church governance",
+        "similarity": 0.26335607729929694
+    }
+]

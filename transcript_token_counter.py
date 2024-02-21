@@ -1,20 +1,16 @@
 import tiktoken
 import os
+import math
 
-EMBEDDING_CTX_LENGTH = 8191
-EMBEDDING_ENCODING = 'cl100k_base'
-
-def count_tokens(encoding_name, chunk_length, directory="transcripts2"):
-    text = ""
-    for filename in os.listdir(directory):
-        if filename.endswith(".txt"):
-            with open(os.path.join(directory, filename), 'r') as file:
-                text = file.read()
-        encoding = tiktoken.get_encoding(encoding_name)
-        tokens = encoding.encode(text)
-        if len(tokens) > chunk_length:
-            print(f"{filename}: {len(tokens)} is too large")
-        else: 
-            print(f"{filename}: {len(tokens)} is under the token limit")
-
-count_tokens(EMBEDDING_ENCODING, EMBEDDING_CTX_LENGTH)
+def count_tokens(text):
+    print(f"This is the text count_tokens was given: {text}")
+    encoding = tiktoken.get_encoding('cl100k_base')
+    tokens = encoding.encode(text)
+    if len(tokens) > 8191:
+        length = math.ceil(len(tokens) / 8191)
+        print(length)
+        print(f"{len(tokens)} is too large")
+        return length 
+    else: 
+        print(f"{len(tokens)} is under the token limit")
+        return 0

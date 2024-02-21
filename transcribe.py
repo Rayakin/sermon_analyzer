@@ -1,11 +1,12 @@
 from openai import OpenAI
 import os
 import re
-from get_existing_trackIds import get_existing_trackIds
 client = OpenAI()
 
 def get_transcript(input_file):
+    print(input_file)
     audio_file = open(input_file, "rb")
+    print(audio_file)
     try: 
         transcript = client.audio.transcriptions.create(
             model="whisper-1",
@@ -13,11 +14,11 @@ def get_transcript(input_file):
             language="en",
             file=audio_file
         )
+        transcription_text = transcript.text
+        return transcription_text
     except Exception as e:
         print(e)
         return False
-    transcription_text = transcript.text
-    return transcription_text
 
 def get_all_transcripts_in_directory(directory):
     try:
@@ -31,8 +32,7 @@ def get_all_transcripts_in_directory(directory):
                 trackId = trackId_match.group(1)
                 print(trackId)
                 input_file_path = os.path.join(directory, filename)
-                output_file_path = f"transcripts/New/{trackId}.txt"
-                
+                output_file_path = f"transcripts/{trackId}.txt"
                 transcript = get_transcript(input_file_path)
                 if transcript == False:
                     continue
@@ -42,7 +42,7 @@ def get_all_transcripts_in_directory(directory):
     except Exception as e:
         print(e)
 
-get_all_transcripts_in_directory('mp3s/Ready')
+# get_all_transcripts_in_directory('mp3s/Ready')
         
 # text = get_transcript('mp3s/compressed_1000611933131--The Power of Weakness (II Cor 11:1-12:10) (Part 14).mp3')
 # print(text)

@@ -2,6 +2,7 @@ import os
 import json
 from supabase import create_client, Client
 
+user_pw = os.environ.get("USER_PW")
 url: str = os.environ.get("SUPABASE_URL")
 key: str = os.environ.get("SUPABASE_KEY")
 supabase: Client = create_client(url, key)
@@ -14,7 +15,7 @@ def initialize_supabase(url, key):
 # new_user = supabase.auth.sign_up({ "email": 'david@triplane.digital', "password": 'simfod-8xypju-Qahrun' })
 
 # Sign on with password:
-user = supabase.auth.sign_in_with_password({ "email": 'david@triplane.digital', "password": 'simfod-8xypju-Qahrun' })
+user = supabase.auth.sign_in_with_password({ "email": 'david@triplane.digital', "password": user_pw })
 
 # This is an example table query. All column selections can just be appended, separated by commas. (.eq is an optional path to return specific results)
 response = supabase.table('sermons').select("id", "download_link").eq("id", 1000591927285).execute()
@@ -36,7 +37,7 @@ def insert_sermon_metadata(sermon_metadata_object):
             "releaseDate":sermon_metadata_object['releaseDate'],
             "description":sermon_metadata_object['description'],
             "orgId":"3ca000daf5212a4908bc4aa57205162b"
-            }).execute()
+        }).execute()
         # Assert we pulled real data.
         assert len(data.data) > 0
     except Exception as e:
